@@ -2,128 +2,128 @@
 <QuestInfoResource>
 	<QuestInfo
 		questName="Dynamic_Convoy_0"
-		briefDiz="Сопроводить машину до города %2n."
-		fullDiz="В городе %1n попросили сопроводить машину с ценным грузом до города %2n за %3d."
+		briefDiz="Escort vehicle to city %2n."
+		fullDiz="In the city %1n people asked to escort vehicle to city %2n for %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Convoy_1"
-		briefDiz="Защитить автомобиль."
-		fullDiz="Житель города %1n попросил меня защитить его автомобиль по дороге в селение %2n и обещал заплатить %3d."
+		briefDiz="Defend vehicle."
+		fullDiz="Citizen of town %1n asked me to defend his car during the road to city %2n and promised to pay %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Convoy_2"
-		briefDiz="Обеспечить безопасность транспорта."
-		fullDiz="Нужно отконвоировать транспорт из населенного пункта %1n до города %2n. Если все пройдет гладко, я получу %3d."
+		briefDiz="Safeguard security of transport."
+		fullDiz="It is necessary to convoy transport from human settlement %1n to the ciyu %2n. If everything is going to be allright I will get %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Convoy_3"
-		briefDiz="Обеспечить безопасность."
-		fullDiz="Челнок из города %1n отправляется по торговому маршруту в селение %2n. В последнее время участились нападения на одиноких водителей, так что я согласился защищать его за скромное вознаграждение в %3d."
+		briefDiz="Safeguard security."
+		fullDiz="Merchant from city %1n goes along trading route in settlement %2n. Lonely drivers are often attacked so I agree to protect him for modest reward %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Destroy_0"
-		briefDiz="Уничтожить бандита."
-		fullDiz="В городе %1n я согласился уничтожить врага за вознаграждение в %3d."
+		briefDiz="Kill bandit."
+		fullDiz="In city %1n I have agreed to kill enemy for reward %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Destroy_1"
-		briefDiz="Обезвредить бандита."
-		fullDiz="Жители поселения %1n подвергаются частым атакам хитрого бандита. Я помогу им избавиться от угрозы за %3d."
+		briefDiz="Neutralize bandit."
+		fullDiz="Dwellers from settlement %1n are frequently attacked by cunning bandit. I will help them to get rid of him for %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Destroy_2"
-		briefDiz="Выследить агрессора."
-		fullDiz="Я получу %3d, когда избавлю окрестности города %1n от присутствия одного негодяя."
+		briefDiz="Track down aggressor."
+		fullDiz="I will get %3d when I free city %1n from one scoundrel."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Destroy_3"
-		briefDiz="Поймать и убить."
-		fullDiz="В городе %3d можно заработать %1n за убийство бандита."
+		briefDiz="Catch and kill."
+		fullDiz="In city %3d one may get %1n for the head of one bandit."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Drugs_0"
-		briefDiz="Найти желающих купить контрабандный товар."
-		fullDiz="Моя машина просто набита контрабандным товаром. Нужно срочно продать его в каком-нибудь городе."
+		briefDiz="Find people who wish to purchase the smuggled goods."
+		fullDiz="My car is full of smuggled goods. It needs to sell them in any city."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Drugs_1"
-		briefDiz="Продать нелегальный товар."
-		fullDiz="В местных барах наверняка найдется человек, готовый с радостью приобрести мой нелегальный товар."
+		briefDiz="Sold illegal goods."
+		fullDiz="In local bar surely there is a man who are ready to purchase my illegal goods."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Drugs_2"
-		briefDiz="Избавиться от контрабанды."
-		fullDiz="Пока никто не разнюхал, что именно я прячу в своей машине, надо как можно скорее продать это в каком-нибудь городе."
+		briefDiz="Get rid of smuggled goods."
+		fullDiz="Until nobody knows that I hid in my vehicle it needs to be sold to as soon as possible in any city."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Drugs_3"
-		briefDiz="Провернуть незаконную сделку."
-		fullDiz="Надо найти город, в котором я смогу продать контрабанду с максимальной выгодой."
+		briefDiz="Make illegal deal."
+		fullDiz="I need find city where I can sell goods with maximum profit."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Hunt_0"
-		briefDiz="Сезон охоты."
-		fullDiz="Город %1n заплатит за уничтожение каждого бандита, который мне встретится в указанном районе, %3d."
+		briefDiz="Hunting season."
+		fullDiz="City %1n will pay me for evet one killed bandit in region %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Hunt_1"
-		briefDiz="Проучить бандитов."
-		fullDiz="Бандиты потеряли всякий стыд! Надо преподать им хороший урок. Тем более что город %1n платит за уничтожение каждого бандита в указанном районе %3d."
+		briefDiz="Teach bandit a lesson."
+		fullDiz="Bandits have lost any shame! It needs totaech them good lesson. The more especially that city %1n will pay you for every killed bandit in region %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Hunt_2"
-		briefDiz="Зачистка территории."
-		fullDiz="Власти города %1n начали борьбу за безопасность дорог. В качестве главного мероприятия – операция 'Зачистка'. Уничтожение каждой враждебной машины в указанной области принесёт мне %3d."
+		briefDiz="Mop-up operation."
+		fullDiz="Authority of city %1n cross swords for road security. As a main event there is Mop-up operation. Destruction of every enemy vehicle in pointed area will bring %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Hunt_3"
-		briefDiz="Зачистить территорию."
-		fullDiz="В городе %1n всерьез борются с преступностью. За каждого уничтоженного бандита в указанной области я получу %3d."
+		briefDiz="Clear some area."
+		fullDiz="In city %1n seriously fight with crime. For every killed bandit in this area I will get %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Peace_0"
-		briefDiz="Помириться с бандой %2b."
-		fullDiz="За умеренный процент от моих денег бандаа %2b готова со мной помириться."
+		briefDiz="Make peace with group %2b."
+		fullDiz="For moderate percent of my money group %2b are ready to make peace with me."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Reach_0"
-		briefDiz="Отвезти образцы в селение %2n."
-		fullDiz="Город %1n просит меня отвезти кое-какие исследовательские образцы в поселение %2n. По прибытии я получу %3d."
+		briefDiz="Take pieces in settlement %2n."
+		fullDiz="City %1n ask me take some research pieces in settlement %2n. On arrival I will get %3d."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Reach_1"
-		briefDiz="Доставить посылку в селение %2n."
-		fullDiz="Я получу %3d, когда доставлю посылку в селение %2n. Там ее ждут, но за такие смешные деньги я не собираюсь уж очень торопиться."
+		briefDiz="Deliver package in settlement %2n."
+		fullDiz="I will get %3d when I deliver package %2n. They are waiting for it but for this kind of money I'm not going to be pressed for time."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Reach_2"
-		briefDiz="Добраться до селения %2n."
-		fullDiz="Один чудак из города %1n готов заплатить %3d, если я передам привет его другу, живущему в поселении %2n."
+		briefDiz="Reach city %2n."
+		fullDiz="One fellow from city %1n is ready to pay %3d if I send his's best to a friend who lives in settlement %2n."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Reach_3"
-		briefDiz="Доставить почту в город %2n."
-		fullDiz="За вознаграждение в %3d  мне надо отвезти посылку с письмами из города %1n в селение %2n."
+		briefDiz="Deliver mail to %2n."
+		fullDiz="For reward %3d  I have to deliver mail with letters from %1n to settlement %2n."
 		isMainQuest="0" />
 
 	<QuestInfo
@@ -136,32 +136,32 @@
 
 	<QuestInfo
 		questName="Dynamic_Treasure_0"
-		briefDiz="Найти древний артефакт."
-		fullDiz="Возле указанной точки можно найти ценный артефакт. Без Кладоискателя здесь не обойтись."
+		briefDiz="Find ancient artifact."
+		fullDiz="Near the reference point one may find valuable artifact. You can't accomplish this task without treasure detector."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Treasure_1"
-		briefDiz="Поиск сокровищ."
-		fullDiz="Следуя полученной информации и ориентиру на карте. Без Кладоискателя здесь делать нечего."
+		briefDiz="Treasure searching."
+		fullDiz="Go by acquired information and landmark on the map. You can't accomplish this task without treasure detector."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Treasure_2"
-		briefDiz="Эхо былых цивилизаций."
-		fullDiz="От древних цивилизаций осталось много ценных вещей, надо только слеодовать ориентиру. Без Кладоискателя, рассчитывая только на удачу, выполнить это дело мало вероятно."
+		briefDiz="Echo of former civilization."
+		fullDiz="A lot of valuables are left from ancient civilizations one need only follow the landmark. It's unlikely to accompish this mission without treasure detector."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Dynamic_Treasure_3"
-		briefDiz="Старинный тайник."
-		fullDiz="Доехать до места, отмеченного на карте, и произвести поиск.  Без Кладоискателя здесь точно не обойтись."
+		briefDiz="Ancient hiding."
+		fullDiz="Reach the place marked on the map and make searching. You can't accomplish this task without treasure detector."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Sin_Arlekin_Band_qst"
-		briefDiz="Убить помощников Арлекина."
-		fullDiz="Арлекин натравил своих Псов. Надо убить их."
+		briefDiz="Kill Harlequin's minions."
+		fullDiz="Harlequin sent out his curs. They have to be killed."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -170,14 +170,14 @@
 
 	<QuestInfo
 		questName="Sin_Arlekin_Find_qst"
-		briefDiz="Найти Арлекина."
-		fullDiz="Арлекин приехал из Иерихона. Надо найти его."
+		briefDiz="Find Harlequin."
+		fullDiz="Harlequin came from Jericho. He's got to be eliminated."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="Sin_Arlekin_Kill_qst"
-		briefDiz="Убить Арлекина."
-		fullDiz="Арлекин должен умереть."
+		briefDiz="Kill Harlequin."
+		fullDiz="Harlequin must die."
 		isMainQuest="1">
 		<Map
 			name="sin" />
@@ -185,14 +185,14 @@
 
 	<QuestInfo
 		questName="Sin_Arlekin_qst"
-		briefDiz="Наказать Арлекина."
-		fullDiz="Арлекин должен поплатиться за дерзость."
+		briefDiz="Kill Harlequin."
+		fullDiz="Now I know who set at me those curs. He must die. You can find him in the east side of the city."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="Sin_Cat_Caravan_qst"
-		briefDiz="Захватить Караван."
-		fullDiz="Гарфилд приказал напасть на караван и захватить."
+		briefDiz="Capture Caravan."
+		fullDiz="Garfield ordered to attack and capture the caravan."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -201,8 +201,8 @@
 
 	<QuestInfo
 		questName="Sin_Cat_Garfield_qst"
-		briefDiz="Поговорить с Боссом Котов Гарфилдом."
-		fullDiz="Чтобы устроится на работу к Котам нужно поговорить с Гарфилдом, их боссом."
+		briefDiz="Talk to Cats' Boss Garfield."
+		fullDiz="I need to talk to Cats' Boss Garfield and convince him to hire me."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -211,8 +211,8 @@
 
 	<QuestInfo
 		questName="Sin_Cat_Kitty_qst"
-		briefDiz="Сообщить о успехе захвата Китти."
-		fullDiz="Караван захвачен, нужно сообщить Китти."
+		briefDiz="Report to Kitty about the caravan's capture."
+		fullDiz="The caravan is captured, I need to report to Kitty about it."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -221,13 +221,13 @@
 
 	<QuestInfo
 		questName="Sin_Cat_qst"
-		briefDiz="Поработать на Котов."
-		fullDiz="Чтобы получить бензин и ремонт нужно поработать на банду Котов."
+		briefDiz="Get a contract with Cats."
+		fullDiz="I need to work for the Cats' gang to get petrol and spare parts for the truck. "
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="Sin_Cross_Born_qst"
-		briefDiz="Поговорить с Борном"
+		briefDiz="Talk to Bourne"
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -236,8 +236,8 @@
 
 	<QuestInfo
 		questName="Sin_Cross_Fight_qst"
-		briefDiz="Убить нападающих котов."
-		fullDiz="Коты нападают. Перебить котов."
+		briefDiz="Kill the Cats."
+		fullDiz="Cats are attacking. They must be killed."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -246,8 +246,8 @@
 
 	<QuestInfo
 		questName="Sin_Cross_Kitty_qst"
-		briefDiz="Спасти Китти."
-		fullDiz="Китти захватили и отвезли на старую ферму. Чтобы её освободить надо перебить охрану."
+		briefDiz="Save Kitty."
+		fullDiz="Kitty was captured and taken to the old farm. I need to kill the guards to set her free."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -256,8 +256,8 @@
 
 	<QuestInfo
 		questName="Sin_Cross_Talk_qst"
-		briefDiz="Доехать до места переговоров."
-		fullDiz="Место Стрелки - старый перекресток. Нужно доехать до него."
+		briefDiz="Reach the place of the negotiations. "
+		fullDiz="We agreed to meet at the old crossroads. I need to get there."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -266,8 +266,8 @@
 
 	<QuestInfo
 		questName="Sin_Cross_Wait_qst"
-		briefDiz="Дождаться Псов."
-		fullDiz="Китти уехала. Теперь нужно дождаться Псов и свалить вину на Котов."
+		briefDiz="Wait for the Dogs."
+		fullDiz="Kitty left. I need to wait for the Dogs and put the blame on the Cats."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -276,19 +276,19 @@
 
 	<QuestInfo
 		questName="Sin_Cross_qst"
-		briefDiz="Начать войну."
-		fullDiz="Если дать им причину эти банды перебьют друг друга."
+		briefDiz="Wage the war."
+		fullDiz="Given a reason, the gangs will eliminate each other."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="Sin_E_qst"
-		briefDiz="Проучить Эгоиста"
+		briefDiz="Tell Egoist a lesson."
 		isMainQuest="0" />
 
 	<QuestInfo
 		questName="Sin_Egoist_Father_qst"
-		briefDiz="Узнать у Святого Отца как проехать за Хребет."
-		fullDiz="Святой Отец обещал указать Путь. Вдруг он имел ввиду Путь буквальный?"
+		briefDiz="Find the way over the ridge from the Reverend.."
+		fullDiz="The Reverend promised to show the Way. What if he meant the way over the ridge?"
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -297,8 +297,8 @@
 
 	<QuestInfo
 		questName="Sin_Egoist_Home_qst"
-		briefDiz="Привести Эгоиста Борну."
-		fullDiz="Эгоист у нас. Теперь его нужно отвести назад Борну."
+		briefDiz="Take Egoist to Borne."
+		fullDiz="We have the Egoist. He needs to be taken back to Borne."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -307,8 +307,8 @@
 
 	<QuestInfo
 		questName="Sin_Egoist_Take_qst"
-		briefDiz="Захватить Эгоиста."
-		fullDiz="Эгоист в СанРафаэле. Придется перебить охрану, чтоб добраться до него."
+		briefDiz="Capture the Egoist."
+		fullDiz="The Egoist is in Saint-Rafael. I need to kill the guards to get to him."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -317,8 +317,8 @@
 
 	<QuestInfo
 		questName="Sin_Egoist_Trap_qst"
-		briefDiz="Поговорить с Борном."
-		fullDiz="Эгоист нужен Псам с разговора с ними и следует начать"
+		briefDiz="Talk to Borne."
+		fullDiz="The Dogs need Egoist. I should talk to him first."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -327,8 +327,8 @@
 
 	<QuestInfo
 		questName="Sin_Egoist_Tunnel_qst"
-		briefDiz="Найти Туннель ведущий сквозь горный хребет."
-		fullDiz="Святой Отец объяснил как использовать Туннель."
+		briefDiz="Find the tunnel that leads to the other side of the mountain ridge. "
+		fullDiz="The Reverend explained how to use the tunnel."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -337,8 +337,8 @@
 
 	<QuestInfo
 		questName="Sin_Egoist_Way_qst"
-		briefDiz="Найти дорогу в СанРафаэль."
-		fullDiz="Эгоист в СанРафаэле за хребтом. Нужно попасть за хребет."
+		briefDiz="Find the road to Saint-Rafael."
+		fullDiz="The Egoist is in Saint-Rafael over the ridge. I need to get there."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -347,14 +347,14 @@
 
 	<QuestInfo
 		questName="Sin_Egoist_qst"
-		briefDiz="Отомстить Эгоисту."
-		fullDiz="Эгоист напал на Китти. Он должен заплатить."
+		briefDiz="Take revenge on the Egoist."
+		fullDiz="Egoist attacked Kitty. He has to pay for it."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="Sin_FedEx_qst"
-		briefDiz="Отдать посылку Джо."
-		fullDiz="Доехать до Западного Иерихона и передать груз Джо. Джо должен заплатить 100 долларов за доставку."
+		briefDiz="Deliver cargo to barman Joe in Jericho."
+		fullDiz="I was given package for Joe. Joe will have to pay 500 coins."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -363,8 +363,8 @@
 
 	<QuestInfo
 		questName="Sin_Final_Fight_qst"
-		briefDiz="Убить Борна."
-		fullDiz="Это последняя встреча с Борном. С неё уйдет только один."
+		briefDiz="Kill Borne."
+		fullDiz="This is my last meeting with Borne. Only one of us will survive it. "
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -373,8 +373,8 @@
 
 	<QuestInfo
 		questName="Sin_Final_Way_qst"
-		briefDiz="Попрощаться с Отцом."
-		fullDiz="Пора уезжать из города. Надо попрощаться со Святым отцом."
+		briefDiz="Say goodbye to the Reverend."
+		fullDiz="It's time to leave town. I need to say goodbye to the Reverend."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -383,8 +383,8 @@
 
 	<QuestInfo
 		questName="Sin_Final_qst"
-		briefDiz="Закончить дела в Иерихоне."
-		fullDiz="У меня еще осталась пара незаконченных дел."
+		briefDiz="Kill left Dogs."
+		fullDiz="Last fight will be near the burnt house of Cats."
 		isMainQuest="1" />
 
 	<QuestInfo
@@ -393,8 +393,8 @@
 
 	<QuestInfo
 		questName="Sin_JoeSaving_qst"
-		briefDiz="Освободить Джо."
-		fullDiz="Джо захвачен Псами. Нужно его освободить."
+		briefDiz="Save barman Joe."
+		fullDiz="Dogs have seized Joe... You need to rescue him."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -403,8 +403,8 @@
 
 	<QuestInfo
 		questName="Sin_Run_qst"
-		briefDiz="Сбежать от Псов"
-		fullDiz="Псы хотят нас убить. Нужно бежать."
+		briefDiz="Escape from Dogs."
+		fullDiz="There is no weapon, but you must escape..."
 		isMainQuest="1">
 		<Map
 			name="sin"
@@ -413,7 +413,7 @@
 
 	<QuestInfo
 		questName="r5m1_BPOSKillThiefCar_Quest"
-		briefDiz="Наказать Вора."
+		briefDiz="Punish Thief."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -422,7 +422,7 @@
 
 	<QuestInfo
 		questName="r5m1_BPOSKillUnknownCars_Quest"
-		briefDiz="Преподать приезжим урок хороших манер. "
+		briefDiz="Teach the guests a lesson of good manners."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -431,7 +431,7 @@
 
 	<QuestInfo
 		questName="r5m1_BPOSMoveToLoc_Quest"
-		briefDiz="Выследить гастролеров."
+		briefDiz="Track down the guest actors."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -440,17 +440,17 @@
 
 	<QuestInfo
 		questName="r5m1_BPOSReturnToSam_Quest"
-		briefDiz="Вернуться к Сэму."
+		briefDiz="Return to Sam."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
-			targetObjName="SemBaseEnter_loc" />
+			targetObjName="SemBase_loc" />
 	</QuestInfo>
 
 	<QuestInfo
 		questName="r5m1_BattleInArena_Quest"
-		briefDiz="Одержать победу в сражении на арене."
-		fullDiz="Правила на этой гладиаторской арене просты: тот, кто выйдет за пределы круга, начерченного на земле, будет убит. Мне остается только вытолкнуть противника за черту."
+		briefDiz="Win the battle on arena."
+		fullDiz="Rules of this gladiator arena are easy: one who trespasses beyond the circle drawn on the ground will be killed. All I have to do is only to jab out enemy beyond the line."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -459,8 +459,8 @@
 
 	<QuestInfo
 		questName="r5m1_BigProblemOnSide_Quest"
-		briefDiz="Нормализовать ситуацию на границе."
-		fullDiz="Разобравшись с заезжими гастролерами, я приобрету полное  доверие Сэма. "
+		briefDiz="Normalize the situation at the boundary."
+		fullDiz="When I solve the problem with guest actors I'll get absolute trust of Sam."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -468,7 +468,7 @@
 
 	<QuestInfo
 		questName="r5m1_ETLCompleteSecretWay_Quest"
-		briefDiz="Преодолеть путь, избегая ловушек."
+		briefDiz="Go along the road and avoid traps."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -477,7 +477,7 @@
 
 	<QuestInfo
 		questName="r5m1_ETLFindSecretWay_Quest"
-		briefDiz="Отыскать скрытую дорогу среди труб."
+		briefDiz="Find hidden road amid pipes."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -486,7 +486,7 @@
 
 	<QuestInfo
 		questName="r5m1_ETLFromSecretWayToLibrary_Quest"
-		briefDiz="Проехать незаметно к Библиотеке мимо охраны."
+		briefDiz="Drive creepingly to the Library and pass the guards."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -495,8 +495,8 @@
 
 	<QuestInfo
 		questName="r5m1_EnterToLibrary_Quest"
-		briefDiz="Проникнуть в Библиотеку."
-		fullDiz="Если Умник не соврал, тут есть нужные мне карты. Еще немного, и я узнаю путь к Эдмонтону.  Вот только по главной дороге к Библиотеке меня точно никто не пустит."
+		briefDiz="Leave the Library."
+		fullDiz="If Wiseguy said the truth, here must be maps I want. Just a little and I'll find road to Edmonton.  One thing is clear, the main road to the Library is closed for me."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -505,7 +505,7 @@
 
 	<QuestInfo
 		questName="r5m1_FT_FindBook"
-		briefDiz="Изучить местность."
+		briefDiz="Explore territory."
 		isMainQuest="0">
 		<Map
 			name="r5m1"
@@ -514,7 +514,7 @@
 
 	<QuestInfo
 		questName="r5m1_FT_Return"
-		briefDiz="Пора возвращаться с книгами за наградой."
+		briefDiz="It's time to return with books for reward."
 		isMainQuest="0">
 		<Map
 			name="r5m1"
@@ -523,8 +523,8 @@
 
 	<QuestInfo
 		questName="r5m1_FastLeaveLibrary_Quest"
-		briefDiz="Бежать из библиотеки."
-		fullDiz="Теперь мне известно все, что нужно. Пора делать ноги, пока охрана не заинтересовалась мной."
+		briefDiz="Run away from Library."
+		fullDiz="Now I know everything I need. It's time to leave until guards are not interested in me."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -533,8 +533,8 @@
 
 	<QuestInfo
 		questName="r5m1_FindTreasure"
-		briefDiz="Отыскать древние книги."
-		fullDiz="В развалинах и руинах возле Библиотеки можно найти немало интересного."
+		briefDiz="Find ancient books."
+		fullDiz="In the ruins near the Library one may find a lot of interesting things."
 		isMainQuest="0">
 		<Map
 			name="r5m1" />
@@ -542,8 +542,8 @@
 
 	<QuestInfo
 		questName="r5m1_FirstQofSam_Quest"
-		briefDiz="Выполнить первое поручение Сэма."
-		fullDiz="Здесь никто не знает о сказочном городе Эдмонтоне, находящемся прямо за мостом.  Но, чтобы оказаться там, мне нужно попасть в доверие к Сэму. Следовательно, придется приложить все силы, чтобы доставить послание его другу."
+		briefDiz="Accomplish first mission of Sam."
+		fullDiz="Here nobody knows about dreamy city of Edmonton which is situated directly past the bridge.  But in order to reach it I'll have to win Sam's confidence. So I'll have to make a fierce effort to deliver this message to his friend."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -552,7 +552,7 @@
 
 	<QuestInfo
 		questName="r5m1_GoToMichikar_Quest"
-		briefDiz="Доехать до Мичикара"
+		briefDiz="Getting to Michikara"
 		fullDiz="Сэм сказал, что гонка начнется с минуты на минуту. Надо отправиться в Мичикар - город, которому и принадлежит гоночная трасса."
 		isMainQuest="1">
 		<Map
@@ -562,7 +562,7 @@
 
 	<QuestInfo
 		questName="r5m1_KK_KillThem"
-		briefDiz="Уничтожить контрабандистов."
+		briefDiz="Kill smugglers."
 		isMainQuest="0">
 		<Map
 			name="r5m1" />
@@ -570,7 +570,7 @@
 
 	<QuestInfo
 		questName="r5m1_KK_Spy"
-		briefDiz="Проследить за подозрительной машиной."
+		briefDiz="Spy upon the suspicious vehicle."
 		isMainQuest="0">
 		<Map
 			name="r5m1"
@@ -579,7 +579,7 @@
 
 	<QuestInfo
 		questName="r5m1_K_FindBtotherMan"
-		briefDiz="Поговорить с барыгой."
+		briefDiz="Talk to merchant."
 		isMainQuest="0">
 		<Map
 			name="r5m1"
@@ -588,7 +588,7 @@
 
 	<QuestInfo
 		questName="r5m1_K_TravelLetter"
-		briefDiz="Передать товар."
+		briefDiz="Sell goods."
 		isMainQuest="0">
 		<Map
 			name="r5m1"
@@ -597,8 +597,8 @@
 
 	<QuestInfo
 		questName="r5m1_KillBoss4_Quest"
-		briefDiz="Убить Сэма!!!"
-		fullDiz="Сэм - грязный предатель и трус, пора избавить от него мир. "
+		briefDiz="Kill Sam!!!"
+		fullDiz="Sam is dirty betrayer and coward it's time to free the world from him."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -619,8 +619,8 @@
 
 	<QuestInfo
 		questName="r5m1_KillKontrabondist"
-		briefDiz="Предотвратить нелегальную сделку."
-		fullDiz="Необходимо предотвратить торговлю контрабандными  товарами."
+		briefDiz="Bar the illegal deal."
+		fullDiz="It's necessary to stop contraband trade."
 		isMainQuest="0">
 		<Map
 			name="r5m1" />
@@ -628,8 +628,8 @@
 
 	<QuestInfo
 		questName="r5m1_KillRobotsWithTank_Quest"
-		briefDiz="Остановить атаку роботов."
-		fullDiz="Используя всю мощь оружия древних, необходимо уничтожить армию роботов прежде, чем они разрушат все вокруг."
+		briefDiz="Stop robot attack."
+		fullDiz="Use the all weapons power of ancient you have to annihilate robots army before they destroyed all things around."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -637,8 +637,8 @@
 
 	<QuestInfo
 		questName="r5m1_Kontrabanda"
-		briefDiz="Провернуть нелегальную сделку."
-		fullDiz="Похоже, это дело будет сколь прибыльным, столь и опасным."
+		briefDiz="Huddle illegal deal."
+		fullDiz="It seems that this mission is going to be as profitable as dangerous."
 		isMainQuest="0">
 		<Map
 			name="r5m1" />
@@ -646,8 +646,8 @@
 
 	<QuestInfo
 		questName="r5m1_MoveToLibrary_Quest"
-		briefDiz="Найти Библиотеку."
-		fullDiz="Надеюсь, что в этих руинах найдется хоть немного полезной для меня информации."
+		briefDiz="Find Library."
+		fullDiz="I hope that in this ruins there is even a little piece of useful information for me."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -656,8 +656,8 @@
 
 	<QuestInfo
 		questName="r5m1_Posilka"
-		briefDiz="Доставить посылку."
-		fullDiz="Похоже, здесь дело совсем не в посылке. В этом насквозь продажном и азартном регионе - это очередная игра, на которую можно делать ставки. Что ж, я не привык приходить последним."
+		briefDiz="Deliver package."
+		fullDiz="It seems that the case here is not about the package. In this putrid and hazardous region it is the next game on which one may bet. So what I'm not used to arrive the last one."
 		isMainQuest="0">
 		<Map
 			name="r5m1"
@@ -666,8 +666,8 @@
 
 	<QuestInfo
 		questName="r5m1_RaceofSam_Quest"
-		briefDiz="Приехать к финишу первым."
-		fullDiz="Чтобы одержать победу, надо постараться приехать первым."
+		briefDiz="Win the cup."
+		fullDiz="To win it you have to take at least the third place."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -675,8 +675,8 @@
 
 	<QuestInfo
 		questName="r5m1_ReturnToSamWithMovies_Quest"
-		briefDiz="Привезти пленки Сэму."
-		fullDiz="Пора возвращаться. Эти пленки послужат доказательством моего успеха. Кроме того, Сэм сможет получить с их помощью ценную информацию."
+		briefDiz="Bring films to Sam."
+		fullDiz="It's time to return. These films will demonstrate my success. Besides Sam can get the useful information."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -689,7 +689,7 @@
 
 	<QuestInfo
 		questName="r5m1_SQSDestroyCar_Quest"
-		briefDiz="Поставить жирную точку в этом деле."
+		briefDiz="Put thick dot in this case."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -698,7 +698,7 @@
 
 	<QuestInfo
 		questName="r5m1_SQSMoveToPlace_Quest"
-		briefDiz="Добраться до его берлоги."
+		briefDiz="Get to his den."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -707,8 +707,8 @@
 
 	<QuestInfo
 		questName="r5m1_SecondQofSam_Quest"
-		briefDiz="Ликвидировать объект."
-		fullDiz="Не важно, что послужило причиной вражды между Сэмом и парнем, с которым мне поручено разобраться. Мне нужно доверие моего босса, а цель, как говорится, оправдывает средства. "
+		briefDiz="Eliminate the object."
+		fullDiz="It is not important what the reason of problems between Sam and this fellow I have to cope with is. I need to win confidence of my boss and as the saying is - the end justifies the means."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -716,7 +716,7 @@
 
 	<QuestInfo
 		questName="r5m1_StartRace_Quest"
-		briefDiz="Подготовиться к гонке."
+		briefDiz="Prepare for the race."
 		fullDiz="Нужно подготовиться к гонке, и как можно быстрее."
 		isMainQuest="1">
 		<Map
@@ -726,7 +726,7 @@
 
 	<QuestInfo
 		questName="r5m1_WTBWMoveToBookWormHouse_Quest"
-		briefDiz="Встретиться с Умником."
+		briefDiz="Meet Wiseguy."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -735,7 +735,7 @@
 
 	<QuestInfo
 		questName="r5m1_WTBWTalkWithAborigens_Quest"
-		briefDiz="Поговорить с местными жителями."
+		briefDiz="Talk to locals."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -744,8 +744,8 @@
 
 	<QuestInfo
 		questName="r5m1_WayToBookWorm_Quest"
-		briefDiz="Осмотреться на новом месте."
-		fullDiz="'...город Эдмонтон известен как один из крупнейших торговых центров североамериканского континента... содержит более восьмиста  магазинов... очень низкие цены на бензин...'' Так написано в  брошюре, которую я когда-то заполучил. Я хочу в этот город!  Там можно разбогатеть быстрее, чем заводится мотор при исправном стартере, совершенно не напрягаясь. Эхей! Эдмонтон - город моей мечты! Я спешу к тебе!!! Единственное, что омрачает мое существование - на этой бумажке не указано, где находится этот город. По какой трассе туда ехать? Вот уже долгое время я пытаюсь найти его, но безрезультатно. Надеюсь, в этих краях я смогу получить полезную информацию."
+		briefDiz="Take view of the new place."
+		fullDiz="'...Edmonton city is known as one of the biggest trade centers of North America continent... there are more than 800 shops there... and very low fuel prices...' It was written so in the booklet I had. I want to live in this city! There one may make money faster than engine starts with good starter. Eh! Edmonton is the city of my dream! I hurry to you!!! The one thing which saddens my life is that there is no definite location where this city is situated. What road leads to it? For a long time I try to find it but in vain. I hope I can get some useful information in this region."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -753,8 +753,8 @@
 
 	<QuestInfo
 		questName="r5m2_DestroyKrot_Quest"
-		briefDiz="Разворошить осиное гнездо."
-		fullDiz="Теперь я знаю, где находится база бандитов. Теперь пора ворошить их логово и хоронить их под выстрелы пуль."
+		briefDiz="Stir up a wasps' nest."
+		fullDiz="One-eyed asked to free her from bandits. I cann't offend by refusal old friend."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -767,7 +767,7 @@
 
 	<QuestInfo
 		questName="r5m2_FHDeleteSled_Quest"
-		briefDiz="Замести следы."
+		briefDiz="Cover tracks."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -780,7 +780,7 @@
 
 	<QuestInfo
 		questName="r5m2_FHMoveMapTwo_Quest"
-		briefDiz="Начать поиски в чужих землях."
+		briefDiz="Start searchings in outlands."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -792,7 +792,7 @@
 
 	<QuestInfo
 		questName="r5m2_FHTalkWithAnticwar_Quest"
-		briefDiz="Поговорить со Cтарьевщиком."
+		briefDiz="Talk to Ragman."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -805,7 +805,7 @@
 
 	<QuestInfo
 		questName="r5m2_FHTalkWithCitizens_Quest"
-		briefDiz="Разведать обстановку в местном баре."
+		briefDiz="Find out situation in local bar."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -817,8 +817,8 @@
 
 	<QuestInfo
 		questName="r5m2_FindHollywood_Quest"
-		briefDiz="Найти откуда были украдены древние свитки."
-		fullDiz="В этих пленках содержится крайне интересная информация. Надо узнать, откуда их украли, ведь вполне возможно, что там остались еще."
+		briefDiz="Find the place where ancient volumes were stolen from."
+		fullDiz="These films contain exceptionally interesting information. It needs to find out where they were stolen from because some others may have left there."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -829,8 +829,8 @@
 
 	<QuestInfo
 		questName="r5m2_FindKlad"
-		briefDiz="Исследовать указанную местность."
-		fullDiz="Не может быть, чтобы в этих местах не нашлось ничего такого, что можно было бы выгодно продать."
+		briefDiz="Explore pointed territory."
+		fullDiz="I don't believe that here there is nothing to be sold with profit."
 		isMainQuest="0">
 		<Map
 			name="r5m2"
@@ -839,8 +839,8 @@
 
 	<QuestInfo
 		questName="r5m2_GetAllMovies_Quest"
-		briefDiz="Отобрать свитки."
-		fullDiz="Одноглазая ни за что не отдаст то, что принадлежит ей. Придется применять силу."
+		briefDiz="Take volumes."
+		fullDiz="One-eyed won't give at any price what belongs to her. I will have to use force."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -853,7 +853,7 @@
 
 	<QuestInfo
 		questName="r5m2_KIOEnd_Quest"
-		briefDiz="Отчитаться Одноглазой."
+		briefDiz="Report to One-Eyed."
 		isMainQuest="1">
 		<Map
 			name="r5m2"
@@ -862,7 +862,7 @@
 
 	<QuestInfo
 		questName="r5m2_KIOKillKrotBand_Quest"
-		briefDiz="Избавиться от бандитов и предателей."
+		briefDiz="Get rid of bandits and betrayers."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -875,7 +875,7 @@
 
 	<QuestInfo
 		questName="r5m2_KIOMoveWithCaravan_Quest"
-		briefDiz="Осмотреть окрестности вместе с патрулем."
+		briefDiz="Inspect outskirts together with patrol."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -888,8 +888,8 @@
 
 	<QuestInfo
 		questName="r5m2_KillBantits"
-		briefDiz="Разобраться с близнецом."
-		fullDiz="Один близнец - добрый, другой - злой. Но кто именно из них злой, а кто добрый?... А, какая разница. Еще одно дело, еще одно вознаграждение."
+		briefDiz="Kill twin."
+		fullDiz="One twin is kind, the other is evil. But who is who?... I don't care. One more case one more reward."
 		isMainQuest="0">
 		<Map
 			name="r5m2"
@@ -898,8 +898,8 @@
 
 	<QuestInfo
 		questName="r5m2_KillBoss1_Quest"
-		briefDiz="Победить Механического робота."
-		fullDiz="Придется постараться, чтобы разделаться с этой железякой. "
+		briefDiz="Win mechanical robot."
+		fullDiz="I have to do my best to get rid of this metal stuff."
 		isMainQuest="1">
 		<Map
 			name="r5m2"
@@ -908,8 +908,8 @@
 
 	<QuestInfo
 		questName="r5m2_KillRobotsAtMayak_Quest"
-		briefDiz="Избавиться от роботов."
-		fullDiz="Откуда здесь взялись роботы? Да еще такие злобные? Придется внести им кое-какие изменения в программу."
+		briefDiz="Get rid of these robots."
+		fullDiz="Where do these robots come from? So evil-minded? They have to change the program."
 		isMainQuest="1">
 		<Map
 			name="r5m2"
@@ -918,8 +918,8 @@
 
 	<QuestInfo
 		questName="r5m2_KillRobotsWithDot_Quest"
-		briefDiz="Отбить нападение роботов на город."
-		fullDiz="Роботов слишком много. Дот оснащен более мощным оружием, чем мой автомобиль. Попробую отбить атаку оттуда."
+		briefDiz="Counter the robots attack on city."
+		fullDiz="There are too many robots. Pillbox is equipped with more powerful weapons than my vehicle. I'll try to repulse an attack from there."
 		isMainQuest="1">
 		<Map
 			name="r5m2"
@@ -928,8 +928,8 @@
 
 	<QuestInfo
 		questName="r5m2_KillUncle"
-		briefDiz="Наказать дядю."
-		fullDiz="Мне платят деньги за то, чтобы решить внутрисемейные  отношения."
+		briefDiz="Punish uncle."
+		fullDiz="I'm paid for settling family relations."
 		isMainQuest="0">
 		<Map
 			name="r5m2" />
@@ -937,7 +937,7 @@
 
 	<QuestInfo
 		questName="r5m2_KillUncle_Defenders"
-		briefDiz="Избавиться от дядиной охраны."
+		briefDiz="Get rid of uncle guards."
 		isMainQuest="0">
 		<Map
 			name="r5m2"
@@ -946,7 +946,7 @@
 
 	<QuestInfo
 		questName="r5m2_KillUncle_Main"
-		briefDiz="Убить дядю."
+		briefDiz="Kill uncle."
 		isMainQuest="0">
 		<Map
 			name="r5m2"
@@ -955,7 +955,7 @@
 
 	<QuestInfo
 		questName="r5m2_KillUncle_Start"
-		briefDiz="Подъехать к логову дяди."
+		briefDiz="Drive up to your uncle's lair."
 		isMainQuest="0">
 		<Map
 			name="r5m2"
@@ -964,8 +964,8 @@
 
 	<QuestInfo
 		questName="r5m2_KillWantedBandit_Quest"
-		briefDiz="Проучить незнакомца."
-		fullDiz="Похоже, этот тип - местный бандит. Что ж, мне не впервой разбираться с такими, как он."
+		briefDiz="Teach stranger a lesson."
+		fullDiz="It seems that this man is a local bandit. I have some experience to cope with such men."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -978,8 +978,8 @@
 
 	<QuestInfo
 		questName="r5m2_KrotInOneeye_Quest"
-		briefDiz="Выявить предателя."
-		fullDiz="В банде Одноглазой завелся предатель. Он проворачивает подпольные сделки с местными бандитами и помогает организовывать незаконные махинации. Я должен сделать так, чтобы он ошибся и выдал себя."
+		briefDiz="Uncover the betrayer."
+		fullDiz="There is a betrayer in One-eyed's gang. He makes clandestine dealings with local bandits and helps organize illegal machinations. I have to force him to make a mistake and draw the badger."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -990,18 +990,18 @@
 
 	<QuestInfo
 		questName="r5m2_MoveFirstToVillage"
-		briefDiz="Приехать первым в Мехико."
-		fullDiz="Это не просто гонка, это спор, в котором я должен выиграть."
+		briefDiz="Arrive first to Mexico."
+		fullDiz="It is not just a race this is a contest that I must win."
 		isMainQuest="0">
 		<Map
 			name="r5m2"
-			targetObjName="RaceFinish_loc" />
+			targetObjName="r5m2_Mexico" />
 	</QuestInfo>
 
 	<QuestInfo
 		questName="r5m2_MoveToMayak_Quest"
-		briefDiz="Ехать за Ветром."
-		fullDiz="Ветер - старый путешественник. Он знает, куда едет. Главное не отставать."
+		briefDiz="Follow Wind."
+		fullDiz="Wind is an old traveller. He knows where to go. The main thing is to keep pace."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1014,8 +1014,8 @@
 
 	<QuestInfo
 		questName="r5m2_MoveToOneEye_Quest"
-		briefDiz="Добиться встречи с местной правительницей."
-		fullDiz="Мне необходимо поговорить с хозякой местных земель. Возможно, у нее есть то, что я ищу."
+		briefDiz="Meet with local governor."
+		fullDiz="I have to talk to the ruler of local lands. Maybe she has what I'm looking for."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1028,8 +1028,8 @@
 
 	<QuestInfo
 		questName="r5m2_MoveToOneeyeCaravans_Quest"
-		briefDiz="Догнать караваны Одноглазой."
-		fullDiz="Караваны Одноглазой не могли уйти далеко. Я успею догнать их, если потороплюсь."
+		briefDiz="Catch up One-eyed's caravan."
+		fullDiz="One-eyed's caravan can not go too faraway. I could catch up them if I hurry up."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1042,8 +1042,8 @@
 
 	<QuestInfo
 		questName="r5m2_ReturnToOneeyeAfterM_Quest"
-		briefDiz="Помочь Одноглазой."
-		fullDiz="Я срочно понадобился Одноглазой. Придется возвращаться, и чем скорее, тем лучше. "
+		briefDiz="Help One-eyed."
+		fullDiz="One-eyed needs me urgently. I have to return and the sooner the better."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1056,8 +1056,8 @@
 
 	<QuestInfo
 		questName="r5m2_StartMayak_Quest"
-		briefDiz="Включить маяк."
-		fullDiz="Маяк найден. Надо только понять, как его включить?"
+		briefDiz="Turn on the lighthouse."
+		fullDiz="Lighthouse is found. One thing that has left is only to understand how to turn it on?"
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1070,7 +1070,7 @@
 
 	<QuestInfo
 		questName="r5m2_TalkToCvetnograd_Quest"
-		briefDiz="Найти базу бандитов."
+		briefDiz="Find the bandit base."
 		fullDiz="Одноглазая попросила избавить ее от бандитов. Не могу же я обидеть отказом старую подругу?"
 		isMainQuest="1">
 		<Map
@@ -1080,8 +1080,8 @@
 
 	<QuestInfo
 		questName="r6m1_DiscoveryFactory_Quest"
-		briefDiz="Исследовать фабрику."
-		fullDiz="Теперь, когда путь на фабрику найден, я смогу все здесь исследовать."
+		briefDiz="Explore factory."
+		fullDiz="Now when the road to the factory is found I can explore everything here."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1098,8 +1098,8 @@
 
 	<QuestInfo
 		questName="r6m1_EscapeFromStones_Quest"
-		briefDiz="Спастись от падающик камней."
-		fullDiz="Эти булыжники могут оказаться поопаснее гаубицы. Газуем что есть сил!"
+		briefDiz="Pull through fallen stones."
+		fullDiz="These cobblestones can turn out to be more dangerous than howitzer. Bend the throttle with all your might!"
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1108,7 +1108,7 @@
 
 	<QuestInfo
 		questName="r6m1_FFUseBomb_Quest"
-		briefDiz="Преодолеть стену."
+		briefDiz="Overcome the wall."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1125,7 +1125,7 @@
 
 	<QuestInfo
 		questName="r6m1_FFUseJump_Quest"
-		briefDiz="Найти способ добраться до фабрики."
+		briefDiz="Find the way get to factory."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1142,7 +1142,7 @@
 
 	<QuestInfo
 		questName="r6m1_FSPFindShaht_Quest"
-		briefDiz="Добраться до шахт."
+		briefDiz="Get to mines."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1159,7 +1159,7 @@
 
 	<QuestInfo
 		questName="r6m1_FSPKillRobots_Quest"
-		briefDiz="Ликвидировать роботов-захватчиков."
+		briefDiz="Eliminate invaders robots."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1168,8 +1168,8 @@
 
 	<QuestInfo
 		questName="r6m1_FindABombInJungle_Quest"
-		briefDiz="Найти склад ядерного оружия."
-		fullDiz="Наконец-то путь в Ле Канаду будет открыт для меня. Но роботы помчатся по пятам за нами, если мы их не остановим. Так что мне придется помочь Сэму в его поисках оружия Древних, иначе проклятые железяки уничтожат Эдмонтон раньше, чем я его найду."
+		briefDiz="Find nuclear-weapons storage."
+		fullDiz="Finally road to Canada was opened for me. But the robots will run upon our heels if we don't stop them. So I have to help Sam to find the weapon of Ancient otherwise these damned metal sruff destroy Edmonton before I can find it."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1185,8 +1185,8 @@
 
 	<QuestInfo
 		questName="r6m1_FindBadSam_Quest"
-		briefDiz="Догнать Сэма."
-		fullDiz="Сэм обманул меня, но я этого так не оставлю. Ни одна подлость не должна оставаться безнаказанной."
+		briefDiz="Catch up Sam."
+		fullDiz="Sam has deceived me but I won't leave it this way. Not a single meanness should go unpunished."
 		isMainQuest="1">
 		<Map
 			name="r5m2"
@@ -1203,8 +1203,8 @@
 
 	<QuestInfo
 		questName="r6m1_FindFactory_Quest"
-		briefDiz="Изучить местность и найти фабрику."
-		fullDiz="Уничтожив фабрику, я покончу со всеми роботами Ле Канады."
+		briefDiz="Explore territory and find factory."
+		fullDiz="When I destroy factory I will liquidate all robots in Canada."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -1218,8 +1218,8 @@
 
 	<QuestInfo
 		questName="r6m1_FindLOST_Quest"
-		briefDiz="Найти летающую машину."
-		fullDiz="Трусливый гад на летающей машине пытался убить меня, пользуясь тем, что с земли мне его не достать. Но ничего, рано или поздно его агрегат должен будет приземлиться, и вот тогда я с ним разберусь."
+		briefDiz="Find flying vehicle."
+		fullDiz="Coward cattle on flying vehicle try to kill me because I can't fire at him from the ground. But nothing serious sooner or later his machine must land and that time I will kill him."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1236,8 +1236,8 @@
 
 	<QuestInfo
 		questName="r6m1_FindShahtPeoples_Quest"
-		briefDiz="Поговорить с обслуживающим персоналом шахты."
-		fullDiz="Странные люди живут в этих неменее странных землях. "
+		briefDiz="Talk to mine workers."
+		fullDiz="Strange people inhabit these strange lands."
 		isMainQuest="1">
 		<Map
 			name="r5m1" />
@@ -1251,8 +1251,7 @@
 
 	<QuestInfo
 		questName="r6m1_HSBuyParts_Quest"
-		briefDiz="Купить двигатель парома."
-		fullDiz="Я могу купить двигатель за 100к долларов. Или может все же пригрозить им, чтобы они мне отдали двигатель добровольно?"
+		briefDiz="Purchase spares for aircraft."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1261,8 +1260,8 @@
 
 	<QuestInfo
 		questName="r6m1_HSFindParts_Quest"
-		briefDiz="Забрать двигатель парома."
-		fullDiz="У друйдов Потерянного имеется двигатель от парома, который мне очень нужен. Возможно нам удасться договориться"
+		briefDiz="Take the ferry engine."
+		fullDiz="The Druids of the Lost have a ferry engine that I really need. Maybe we can come to an agreement."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1271,13 +1270,13 @@
 
 	<QuestInfo
 		questName="r6m1_HSKillLosters_Quest"
-		briefDiz="Убить солдат потерянного."
+		briefDiz="Kill the lost soldier."
 		fullDiz="Только дал угрозу, так на меня сразу напали солдаты. Ну что ж, сами напросились."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r6m1_HSReturn2_Quest"
-		briefDiz="Вернуться и произвести ремонт парома."
+		briefDiz="Return and make repairs to the ferry."
 		fullDiz="Теперь у меня есть все для ремонта парома. Я доберусь до Сэма."
 		isMainQuest="1">
 		<Map
@@ -1287,8 +1286,8 @@
 
 	<QuestInfo
 		questName="r6m1_HSReturn_Quest"
-		briefDiz="Приехать к Механику."
-		fullDiz="Механик знает, где находится паром, надо бы навестить его."
+		briefDiz="Come to the Mechanic."
+		fullDiz="The mechanic knows where the ferry is, we should visit him."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1301,8 +1300,8 @@
 
 	<QuestInfo
 		questName="r6m1_HelpShip_Quest"
-		briefDiz="Починить паром."
-		fullDiz="Паром - это теперь единственный способ пересечь Реку и нагнать Сэма."
+		briefDiz="Repair ferry."
+		fullDiz="Now ferry is the only way to cross the river and catch up Sam."
 		isMainQuest="1">
 		<Map
 			name="r6m1" />
@@ -1313,8 +1312,8 @@
 
 	<QuestInfo
 		questName="r6m1_KillBoss2_Quest"
-		briefDiz="Убить очередное Механическое чудище."
-		fullDiz="Везет мне в последнее время на монстров. Жаль только, что трофеев взять не получается, даже шкуры с них не снять."
+		briefDiz="Kill Mechanic monster."
+		fullDiz="I am in luck with these monsters. It is a pity I can't take trophies I even can't take jackets from them."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1328,8 +1327,8 @@
 
 	<QuestInfo
 		questName="r6m1_TalkWithWorestMen_Quest"
-		briefDiz="Заехать в ближайшее поселение."
-		fullDiz="Совершенно незнакомые места. Надо бы взять 'языка'.  Ну, или просто поговорить с кем-нибудь из местных."
+		briefDiz="Call on nearest settlement."
+		fullDiz="Absolutely strange place. It needs to capture prisoner for interrogation or to talk to locals."
 		isMainQuest="1">
 		<Map
 			name="r5m1"
@@ -1346,8 +1345,8 @@
 
 	<QuestInfo
 		questName="r6m1_opt_FindKids"
-		briefDiz="Разобраться в деле с пропавшим ребенком."
-		fullDiz="Найти в деревне свидетелей, знающих хоть что-то о пропаже ребенка."
+		briefDiz="Puzzle out situation with lost child."
+		fullDiz="Find in the country witnesss who know something about lost child."
 		isMainQuest="0">
 		<Map
 			name="r6m1"
@@ -1356,8 +1355,8 @@
 
 	<QuestInfo
 		questName="r6m1_opt_HelpAvtostopshik"
-		briefDiz="Подбросить путника до города."
-		fullDiz="Довезти путника до Онто. Не самое сложное задание, зато в дороге веселее."
+		briefDiz="Give traveller a lift to city."
+		fullDiz="Give traveller a ride to Otno. Not the most hard mission but it's more cheerful during the travell."
 		isMainQuest="0">
 		<Map
 			name="r6m1"
@@ -1366,8 +1365,8 @@
 
 	<QuestInfo
 		questName="r6m1_opt_HelpOldCar"
-		briefDiz="Достать детали."
-		fullDiz="Привезти запчасти для сломанной машины"
+		briefDiz="Get parts."
+		fullDiz="Bring spares for broken vehicle"
 		isMainQuest="0">
 		<Map
 			name="r6m1" />
@@ -1375,8 +1374,8 @@
 
 	<QuestInfo
 		questName="r6m1_opt_Signs"
-		briefDiz="Странные знаки на полях."
-		fullDiz="Люди говорят, что это чудное явление. Стоит взглянуть -  будет потом, что девчонкам в барах расказывать."
+		briefDiz="There are strange signs at the fields."
+		fullDiz="People say that it is a wonderful event. It's worth seeing to tell about it in the bar with girls."
 		isMainQuest="0">
 		<Map
 			name="r6m1" />
@@ -1384,7 +1383,7 @@
 
 	<QuestInfo
 		questName="r6m1_opt_SignsDoklad"
-		briefDiz="Рассказать об этом в городе."
+		briefDiz="Tell about it in town."
 		isMainQuest="0">
 		<Map
 			name="r6m1"
@@ -1393,7 +1392,7 @@
 
 	<QuestInfo
 		questName="r6m1_opt_SignsSee"
-		briefDiz="Осмотреть поле."
+		briefDiz="Inspect field."
 		isMainQuest="0">
 		<Map
 			name="r6m1"
@@ -1402,8 +1401,8 @@
 
 	<QuestInfo
 		questName="r6m1_opt_StartRace"
-		briefDiz="Опередить соперника."
-		fullDiz="Нельзя допустить, чтобы этот пижон опередил меня на трассе."
+		briefDiz="Outstart rival."
+		fullDiz="I cannot allow this teddy boy outrides me on the road."
 		isMainQuest="0">
 		<Map
 			name="r6m1"
@@ -1412,8 +1411,8 @@
 
 	<QuestInfo
 		questName="r6m2_AferaOfHero_Quest"
-		briefDiz="Обмануть охранную систему."
-		fullDiz="Оказывается, мало иметь облик робота, надо еще и подражать его поведению, иначе охранная система Базы от меня и мокрого места не оставит."
+		briefDiz="Cheat the security system."
+		fullDiz="It turns out that it's not enough to have figure of robot it also needs to imitate his behavior otherwise the security system of Base will destroy me."
 		isMainQuest="1">
 		<Map
 			name="r6m2"
@@ -1422,8 +1421,8 @@
 
 	<QuestInfo
 		questName="r6m2_ContinueFindRobotsBase_Quest"
-		briefDiz="Продолжить поиски источника роботов."
-		fullDiz="Фабрика не была основным источником монстров, и ее уничтожение мало чем помогло. Роботов станет меньше, но совсем они не исчезнут. Надо искать центр."
+		briefDiz="Continue to search for robots source."
+		fullDiz="Factory wasn't the major source of monsters and its destruction helped us a little. The number of robots will become smaller but they won't entirely disappear. We need search the center."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1435,8 +1434,8 @@
 
 	<QuestInfo
 		questName="r6m2_DestroyRobotsBase_Quest"
-		briefDiz="Обесточить Базу."
-		fullDiz="На уничтожение Базы у меня будет только одна попытка. Если я хочу добиться своей цели, мне надо найти  Генератор, питающий Базу, и взорвать его."
+		briefDiz="Deenergized the Base."
+		fullDiz="I will have only one attempt to destroy the Base. If I want to reach the goal I have to find Generator which powers the Base and blow it up."
 		isMainQuest="1">
 		<Map
 			name="r6m2"
@@ -1445,7 +1444,7 @@
 
 	<QuestInfo
 		questName="r6m2_FindBadSam_Quest"
-		briefDiz="Догнать Сэма."
+		briefDiz="Catch up with Sam."
 		fullDiz="Сэм обманул меня, но я этого так не оставлю. Ни одна подлость не должна оставаться безнаказанной."
 		isMainQuest="1">
 		<Map
@@ -1459,8 +1458,8 @@
 
 	<QuestInfo
 		questName="r6m2_Gonka1"
-		briefDiz="Обогнать соперника."
-		fullDiz="Я всегда прихожу к финишу первым, просто мой соперник не знает об этом. Надо ему это продемонстировать."
+		briefDiz="Outrun rival."
+		fullDiz="I always come to the finish line first, simply my rival doesn't know about it. I will demonstrate it."
 		isMainQuest="0">
 		<Map
 			name="r6m2"
@@ -1469,7 +1468,7 @@
 
 	<QuestInfo
 		questName="r6m2_HTMKillRobots_Quest"
-		briefDiz="Спасти незнакомца от роботов."
+		briefDiz="Rescue stranger from robots."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1482,7 +1481,7 @@
 
 	<QuestInfo
 		questName="r6m2_HTMMoveToHouseMechanick_Quest"
-		briefDiz="Доехать с Механиком до его дома."
+		briefDiz="Go with Mechanic to his home."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1495,8 +1494,8 @@
 
 	<QuestInfo
 		questName="r6m2_HelpToMechanick_Quest"
-		briefDiz="Помочь незнакомцу."
-		fullDiz="Не знаю, что более высокоморально: помочь незнакомцу в беде или уничтожить еще одну партию роботов? Сделаю и то и другое."
+		briefDiz="Help stranger."
+		fullDiz="I don't know what is more high-toned to help stranger in deep water or to annihilate another group of robots? I will do both."
 		isMainQuest="1">
 		<Map
 			name="r6m1" />
@@ -1507,8 +1506,8 @@
 
 	<QuestInfo
 		questName="r6m2_HelpVoditel"
-		briefDiz="Помочь в беде."
-		fullDiz="Я нашел отличного покупателя на запчасти. Бедолага, похоже, планирует собрать из них новую машину взамен разбитой. Мне же лучше - запчастей потребуется много."
+		briefDiz="Help in trouble."
+		fullDiz="I have found an excellent spares buyer. It seems that this luckless man is planing to put them all together and create a new vehicle instead of the crashed one. It's good for me - he will need a lot of spares."
 		isMainQuest="0">
 		<Map
 			name="r6m2"
@@ -1517,8 +1516,8 @@
 
 	<QuestInfo
 		questName="r6m2_KillBoss3_Quest"
-		briefDiz="Победить в схватке с Эмиссаром."
-		fullDiz="А вот и летающая машина, о необходимости подстрелить которую я так долго говорил. Теперь за дело!"
+		briefDiz="Win the fight with Emissary."
+		fullDiz="Here is the flying machine which I have wished to destroy for so long. Now it's time to do it!"
 		isMainQuest="1">
 		<Map
 			name="r6m2"
@@ -1527,7 +1526,7 @@
 
 	<QuestInfo
 		questName="r6m2_MRHPart1_Quest"
-		briefDiz="Достать камеры оптической системы."
+		briefDiz="Get optical system cameras."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1540,7 +1539,7 @@
 
 	<QuestInfo
 		questName="r6m2_MRHPart2_Quest"
-		briefDiz="Достать аккумулятор для робота."
+		briefDiz="Get accumulator for robot."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1553,7 +1552,7 @@
 
 	<QuestInfo
 		questName="r6m2_MRHPart3_Quest"
-		briefDiz="Достать шланг для гидравлической системы."
+		briefDiz="Get flexible tubing for fluid system."
 		isMainQuest="1">
 		<Map
 			name="r6m1"
@@ -1566,7 +1565,7 @@
 
 	<QuestInfo
 		questName="r6m2_MRHRetturnToMechanick_Quest"
-		briefDiz="Отдать детали Механику."
+		briefDiz="Return parts to Mechanic."
 		isMainQuest="1">
 		<Map
 			name="r6m2"
@@ -1575,8 +1574,8 @@
 
 	<QuestInfo
 		questName="r6m2_MakeRoboHuman_Quest"
-		briefDiz="Починить робота."
-		fullDiz="У Механика есть суперплан по уничтожению Базы роботов. Он предлагает проникнуть на их Базу, замаскировавшись под одного из них. Осталось только привести в рабочее состояние имеющегося у него полуразваленного монстра."
+		briefDiz="Repair robot."
+		fullDiz="Mechanic has a super plan how to destroy the Base of robots. He offers to find a way into their base camouflaging as one of them. The only thing is to get into working conditions the nonworking monster which he has."
 		isMainQuest="1">
 		<Map
 			name="r6m1" />
@@ -1587,8 +1586,8 @@
 
 	<QuestInfo
 		questName="r6m2_MoveFromRobotBase_Quest"
-		briefDiz="Бежать с Базы со всех ног."
-		fullDiz="Генератор уничтожен. С роботами покончено. Пора убираться отсюда."
+		briefDiz="Run away from the Base at full speed."
+		fullDiz="Generator is destroyed. All robots liquidated. It's time go away from here."
 		isMainQuest="1">
 		<Map
 			name="r6m2"
@@ -1597,7 +1596,7 @@
 
 	<QuestInfo
 		questName="r6m2_NearMechanic_Quest"
-		briefDiz="Сопроводить Механика до Дома"
+		briefDiz="Escort the Mechanic to the House"
 		fullDiz="Механик знает, как остановить роботов. Надо сопроводить его до дома."
 		isMainQuest="0">
 		<Map
@@ -1607,8 +1606,8 @@
 
 	<QuestInfo
 		questName="r6m2_SearchRobotsBase_Quest"
-		briefDiz="Проникнуть на базу роботов."
-		fullDiz="Теперь(в обличии робота) я могу попытаться проехать на Базу роботов."
+		briefDiz="Find a way into Base of robots."
+		fullDiz="Now (in robot appearance) I can enter the robots' Base."
 		isMainQuest="1">
 		<Map
 			name="r6m2"
@@ -1617,8 +1616,8 @@
 
 	<QuestInfo
 		questName="r6m2_WhereRobotGo"
-		briefDiz="Изучить повадки."
-		fullDiz="О противнике надо знать все. Например, хорошо бы выяснить, куда так торопится этот робот?  "
+		briefDiz="Study habits."
+		fullDiz="You need to know all about the enemy. For example it will be useful to find out where this robot hurries?"
 		isMainQuest="0">
 		<Map
 			name="r6m2" />
@@ -1626,7 +1625,7 @@
 
 	<QuestInfo
 		questName="r6m2_WhereRobotGo_DestroySvatilishe"
-		briefDiz="Уничтожить робота."
+		briefDiz="Destroy robots sanctuary."
 		isMainQuest="0">
 		<Map
 			name="r6m2"
@@ -1635,7 +1634,7 @@
 
 	<QuestInfo
 		questName="r6m2_WhereRobotGo_Prosledit"
-		briefDiz="Проследовать за роботом."
+		briefDiz="Follow the robot."
 		isMainQuest="0">
 		<Map
 			name="r6m2"

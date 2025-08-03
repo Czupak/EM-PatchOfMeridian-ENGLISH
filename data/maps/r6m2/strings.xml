@@ -3,8 +3,8 @@
 	<string
 		id="4201"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Так, что здесь происходит?!"
-		sound="data\sounds\Speech\r6m2\r6m2_4201_nomad.ogg" 
+		value="VAGRANT|  What does it happen here?!"
+		sound="data\sounds\Speech\r6m2\r6m2_4201_nomad.ogg"
 		time="2" />
 
 	<string
@@ -13,15 +13,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Благодарю тебя за помощь, друг!"
-		sound="data\sounds\Speech\r6m2\r6m2_4301_mechanic.ogg" 
+		value="MECHANIC|  Thank you for your help friend!"
+		sound="data\sounds\Speech\r6m2\r6m2_4301_mechanic.ogg"
 		time="2" />
 
 	<string
 		id="4302"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Нет проблем. Я последнее время только и делаю, что спасаю кого-нибудь от этих взбесившихся железяк."
-		sound="data\sounds\Speech\r6m2\r6m2_4302_nomad.ogg" 
+		value="VAGRANT|  No problem. I have recentrly been saving someone from this crazy scrap. "
+		sound="data\sounds\Speech\r6m2\r6m2_4302_nomad.ogg"
 		time="7" />
 
 	<string
@@ -30,15 +30,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|У нас тут было довольно спокойное место до тех пор, пока не появились эти штуки."
-		sound="data\sounds\Speech\r6m2\r6m2_4303_mechanic.ogg" 
+		value="MECHANIC|  This place used to be rather calm until these things appeared."
+		sound="data\sounds\Speech\r6m2\r6m2_4303_mechanic.ogg"
 		time="5" />
 
 	<string
 		id="4304"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|А давно они тут?"
-		sound="data\sounds\Speech\r6m2\r6m2_4304_nomad.ogg" 
+		value="VAGRANT|  And how long have they been here? "
+		sound="data\sounds\Speech\r6m2\r6m2_4304_nomad.ogg"
 		time="2" />
 
 	<string
@@ -47,15 +47,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|О, нет. Не очень. Однако они появились внезапно и в таком большом количестве, что спастись удалось немногим."
-		sound="data\sounds\Speech\r6m2\r6m2_4305_mechanic.ogg" 
+		value="MECHANIC|  Oh no. Not much. But they appeared suddenly and there were so many of them that few of us survived."
+		sound="data\sounds\Speech\r6m2\r6m2_4305_mechanic.ogg"
 		time="6" />
 
 	<string
 		id="4306"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Послушай, приятель, а ты случаем не знаешь, где их главная база?"
-		sound="data\sounds\Speech\r6m2\r6m2_4306_nomad.ogg" 
+		value="VAGRANT|  Listen, fellow, don't you happen to know where their main base is?"
+		sound="data\sounds\Speech\r6m2\r6m2_4306_nomad.ogg"
 		time="4" />
 
 	<string
@@ -64,22 +64,22 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Конечно! Но нам лучше покинуть это место, пока новые железные твари не примчались сюда. Помоги мне добраться до дома, а там мы обсудим одну идею."
-		sound="data\sounds\Speech\r6m2\r6m2_4307_mechanic.ogg" 
+		value="MECHANIC|  Of course! But we would be better of leave this place unless new iron monsters come. Help me get home and we discuss your idea there."
+		sound="data\sounds\Speech\r6m2\r6m2_4307_mechanic.ogg"
 		time="8" />
 
 	<string
 		id="4308"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Показывай дорогу."
-		sound="data\sounds\Speech\r6m2\r6m2_4308_nomad.ogg" 
+		value="VAGRANT|  Show me the way."
+		sound="data\sounds\Speech\r6m2\r6m2_4308_nomad.ogg"
 		time="2" />
 
 	<string
 		id="4401"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Ну, что у тебя за идея?"
-		sound="data\sounds\Speech\r6m2\r6m2_4401_nomad.ogg" 
+		value="VAGRANT|  Well, what's your idea?"
+		sound="data\sounds\Speech\r6m2\r6m2_4401_nomad.ogg"
 		time="2" />
 
 	<string
@@ -88,15 +88,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Судя по тому, что я видел на дороге, ты - хороший водитель, отличный стрелок, достойный и храбрый человек."
-		sound="data\sounds\Speech\r6m2\r6m2_4402_mechanic.ogg" 
+		value="MECHANIC|  Judging by what I saw on the road, you are a good driver, an excellent shooter and a descent brave man. "
+		sound="data\sounds\Speech\r6m2\r6m2_4402_mechanic.ogg"
 		time="7" />
 
 	<string
 		id="4403"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Ну, да. А что?"
-		sound="data\sounds\Speech\r6m2\r6m2_4403_nomad.ogg" 
+		value="VAGRANT|  Well yes. Why?"
+		sound="data\sounds\Speech\r6m2\r6m2_4403_nomad.ogg"
 		time="2" />
 
 	<string
@@ -105,15 +105,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|У меня есть план, как уничтожить всех роботов. Но чтобы его осуществить, нужен человек вроде тебя."
-		sound="data\sounds\Speech\r6m2\r6m2_4404_mechanic.ogg" 
+		value="MECHANIC|  I have got a plan how to destroy all the robots. But we need a man like you to put it into action."
+		sound="data\sounds\Speech\r6m2\r6m2_4404_mechanic.ogg"
 		time="6" />
 
 	<string
 		id="4405"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Да? И в чем состоит твой гениальный план?"
-		sound="data\sounds\Speech\r6m2\r6m2_4405_nomad.ogg" 
+		value="VAGRANT|  Well? And what is your brilliant plan?"
+		sound="data\sounds\Speech\r6m2\r6m2_4405_nomad.ogg"
 		time="4" />
 
 	<string
@@ -122,15 +122,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Необходимо пробраться на базу, производящую роботов, и остановить их производство."
-		sound="data\sounds\Speech\r6m2\r6m2_4406_mechanic.ogg" 
+		value="MECHANIC|  We must get into the base where the robots are made and stop their manufacture."
+		sound="data\sounds\Speech\r6m2\r6m2_4406_mechanic.ogg"
 		time="5" />
 
 	<string
 		id="4407"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Отличная идея! Главное, свежая и оригинальная. А что, тебе известен какой-нибудь тайный ход, ведущий на их базу?"
-		sound="data\sounds\Speech\r6m2\r6m2_4407_nomad.ogg" 
+		value="VAGRANT|  Great idea! And I dare say, it is fresh and original. And don't you happen to know any secret path leading to their base, do you?"
+		sound="data\sounds\Speech\r6m2\r6m2_4407_nomad.ogg"
 		time="8" />
 
 	<string
@@ -139,15 +139,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Но это не важно. Недавно мне удалось добыть корпус одного из роботов, я почти починил его и слегка модернизировал. Теперь человек может забраться внутрь робота и управлять им."
-		sound="data\sounds\Speech\r6m2\r6m2_4408_mechanic.ogg" 
+		value="MECHANIC|  But this is not important. Not long ago I managed to get hold of a body of a robot; I repaired and modernized it a bit. Now, a man can get inside the robot and control it."
+		sound="data\sounds\Speech\r6m2\r6m2_4408_mechanic.ogg"
 		time="11" />
 
 	<string
 		id="4409"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|А для чего такие сложности? Мой грузовик гораздо маневреннее и лучше вооружен."
-		sound="data\sounds\Speech\r6m2\r6m2_4409_nomad.ogg" 
+		value="VAGRANT|  Why go through so much trouble? My truck is much more maneuverable, and it is armed well."
+		sound="data\sounds\Speech\r6m2\r6m2_4409_nomad.ogg"
 		time="5" />
 
 	<string
@@ -156,32 +156,32 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Это наверняка так, но тебе придется с боем пробиваться на базу роботов. Я же предлагаю тебе под видом ''своего'' пробраться на базу и уничтожить её изнутри. Почти никакого риска!"
-		sound="data\sounds\Speech\r6m2\r6m2_4410_mechanic.ogg" 
+		value="MECHANIC|  Sure, but you will have to fight your way to the robot base. I suggest that you get inside the base as one of them and destroy it from the inside. Looks like it should be any risk at all!"
+		sound="data\sounds\Speech\r6m2\r6m2_4410_mechanic.ogg"
 		time="10" />
 
 	<string
 		id="4411"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Так почему же ты этого до сих пор не сделал?"
-		sound="data\sounds\Speech\r6m2\r6m2_4411_nomad.ogg" 
+		value="VAGRANT|  And why have you not done this yet?"
+		sound="data\sounds\Speech\r6m2\r6m2_4411_nomad.ogg"
 		time="3" />
 
 	<string
-		id="4412"		
+		id="4412"
 		modelName="Man_mask"
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Мне не хватает нескольких частей, чтобы завершить работу. Кроме того, я не так храбр, как ты."
-		sound="data\sounds\Speech\r6m2\r6m2_4412_mechanic.ogg" 
+		value="MECHANIC|  I still need several parts to finish my job. And anyway, I am not as brave as you are."
+		sound="data\sounds\Speech\r6m2\r6m2_4412_mechanic.ogg"
 		time="7" />
 
 	<string
 		id="4413"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Хорошо. Расскажи, какие детали надо добыть. А потом поговорим о том, как проникнуть на базу роботов."
-		sound="data\sounds\Speech\r6m2\r6m2_4413_nomad.ogg" 
+		value="VAGRANT|  OK. Tell me what parts we need obtain. And then we will talk how to penetrate into the robots' base."
+		sound="data\sounds\Speech\r6m2\r6m2_4413_nomad.ogg"
 		time="7" />
 
 	<string
@@ -190,15 +190,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Необходимо добыть набор шлангов для гидравлических систем, аккумулятор и пару камер оптической системы. Все это можно выбить из роботов-ремонтников, наводнивших Стагнум. Я отмечу это место на твоей карте."
-		sound="data\sounds\Speech\r6m2\r6m2_4414_mechanic.ogg" 
+		value="MECHANIC|  You need to find a set of hoses for the hydraulic system, a battery and a couple of cameras for the optical system. You can get all of it from the repair robots that flooded Stagnum. I will mark the place on your map."
+		sound="data\sounds\Speech\r6m2\r6m2_4414_mechanic.ogg"
 		time="11" />
 
 	<string
 		id="4415"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Отлично."
-		sound="data\sounds\Speech\r6m2\r6m2_4415_nomad.ogg" 
+		value="VAGRANT|  Cool."
+		sound="data\sounds\Speech\r6m2\r6m2_4415_nomad.ogg"
 		time="1" />
 
 	<string
@@ -207,15 +207,15 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Великолепно! Теперь ты сможешь без проблем проникнуть на базу роботов и уничтожить её изнутри."
-		sound="data\sounds\Speech\r6m2\r6m2_4501_mechanic.ogg" 
+		value="MECHANIC|  Great! Now you can penetrate to the robots' base without any problem and destroy it from inside. "
+		sound="data\sounds\Speech\r6m2\r6m2_4501_mechanic.ogg"
 		time="6" />
 
 	<string
 		id="4502"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Как проникнуть, я соображу, а вот как ее уничтожать - это отдельный вопрос. Есть идеи, как это сделать?"
-		sound="data\sounds\Speech\r6m2\r6m2_4502_nomad.ogg" 
+		value="VAGRANT|  I will think out how to penetrate, but there is another question, how shall we destroy it. Do you have any ideas where and how do it?"
+		sound="data\sounds\Speech\r6m2\r6m2_4502_nomad.ogg"
 		time="8" />
 
 	<string
@@ -224,232 +224,233 @@
 		modelSkin="1"
 		modelCfg="148"
 		modelSlot="1"
-		value="МЕХАНИК|Попробуй найти генератор, обеспечивающий всю фабрику энергией. Если разрушить его, то все производство остановится само собой."
-		sound="data\sounds\Speech\r6m2\r6m2_4503_mechanic.ogg" 
+		value="MECHANIC|  Try to find the generator that supplies the factory with power. If you can destroy it, the hole manufacturing process will stop."
+		sound="data\sounds\Speech\r6m2\r6m2_4503_mechanic.ogg"
 		time="8" />
 
 	<string
 		id="4504"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Неплохая мысль. Попробую."
-		sound="data\sounds\Speech\r6m2\r6m2_4504_nomad.ogg" 
+		value="VAGRANT|  Not a bad idea. I will try it."
+		sound="data\sounds\Speech\r6m2\r6m2_4504_nomad.ogg"
 		time="3" />
 
 	<string
 		id="4601"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|А пробраться сюда не так легко, как мне думалось. Надо подражать действиям этих металлических уродов. Одно неверное движение и моего робота спишут в утиль. Вместе со мной."
-		sound="data\sounds\Speech\r6m2\r6m2_4601_nomad.ogg" 
+		value="VAGRANT|  I see, it is not so easy to get in here as I thought. I must imitate the actions of the metal freaks. One wrong motion, and my robot will be retired to scrap. Together with me."
+		sound="data\sounds\Speech\r6m2\r6m2_4601_nomad.ogg"
 		time="13" />
 
 	<string
 		id="4701"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Похоже, что это и есть тот генератор, о котором говорил Механик. Ну что ж, сейчас в мире станет одним генератором меньше."
-		sound="data\sounds\Speech\r6m2\r6m2_4701_nomad.ogg" 
+		value="VAGRANT|  It seems like this is the generator that the Mechanic told me about. Well, in a minute, the world will lose another generator."
+		sound="data\sounds\Speech\r6m2\r6m2_4701_nomad.ogg"
 		time="9" />
 
 	<string
 		id="4702"
 		modelName="mask_hero"
 		modelSlot="1"
-		value="ЭМИССАР|Кто ты такой?!"
-		sound="data\sounds\Speech\r6m2\r6m2_4702_emissary.ogg" 
+		value="EMISSARY|  Who are you?!"
+		sound="data\sounds\Speech\r6m2\r6m2_4702_emissary.ogg"
 		time="2" />
 
 	<string
 		id="4703"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Тот, кто испортил всю твою кухню. Зачем тебе подробности?"
-		sound="data\sounds\Speech\r6m2\r6m2_4703_nomad.ogg" 
+		value="VAGRANT|  The one who spoiled all your kitchen. Why do you need the details?!"
+		sound="data\sounds\Speech\r6m2\r6m2_4703_nomad.ogg"
 		time="5" />
 
 	<string
 		id="4704"
 		modelName="mask_hero"
 		modelSlot="1"
-		value="ЭМИССАР|Как ты посмел?! Ты разрушил всё, над чем я так долго трудился!"
-		sound="data\sounds\Speech\r6m2\r6m2_4704_emissary.ogg" 
+		value="EMISSARY|  How dare you?! You destroyed everything that I'd built for so long!"
+		sound="data\sounds\Speech\r6m2\r6m2_4704_emissary.ogg"
 		time="5" />
 
 	<string
 		id="4705"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Не преувеличивай, вовсе даже не все. У тебя остался ты сам и твоя машина."
-		sound="data\sounds\Speech\r6m2\r6m2_4705_nomad.ogg" 
+		value="VAGRANT|  Do not exaggerate. It's not all gone. You still got your vehicle and yourself. "
+		sound="data\sounds\Speech\r6m2\r6m2_4705_nomad.ogg"
 		time="7" />
 
 	<string
 		id="4706"
 		modelName="mask_hero"
 		modelSlot="1"
-		value="ЭМИССАР|Я сотру тебя в порошок, ничтожество! "
-		sound="data\sounds\Speech\r6m2\r6m2_4706_emissary.ogg" 
+		value="EMISSARY|  I'll grind you into dust nonentity! "
+		sound="data\sounds\Speech\r6m2\r6m2_4706_emissary.ogg"
 		time="4" />
 
 	<string
 		id="4707"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Ты меня напугал. Можешь считать, что огонь я открыл с перепугу."
-		sound="data\sounds\Speech\r6m2\r6m2_4707_nomad.ogg" 
+		value="VAGRANT|  You've frightened me. You may think that I have started to fire because I'm afraid."
+		sound="data\sounds\Speech\r6m2\r6m2_4707_nomad.ogg"
 		time="5" />
 
 	<string
 		id="4801"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Похоже, это какие-то архивные записи. Попробую их включить… Получилось!"
-		sound="data\sounds\Speech\r6m2\r6m2_4801_nomad.ogg" 
+		value="VAGRANT|  It looks like some archive records. I'll try and turn them on ... It's done."
+		sound="data\sounds\Speech\r6m2\r6m2_4801_nomad.ogg"
 		time="6" />
 
 	<string
 		id="4802"
 		modelName="mask_hero"
 		modelSlot="1"
-		value="ЭМИССАР|Выдержка из архива: ''Именно на этом континенте, близ городка Розвелл, в 1974 году совершил посадку неопознанный летающий объект. Место было моментально оцеплено армией и никто так и не смог увидеть пришельца из…"
-		sound="data\sounds\Speech\r6m2\r6m2_4802_emissary.ogg" 
+		value="EMISSARY|  Excerpt from the archive: ''This is on an continent, in the vicinity of the town of Rozwell, where an unknown flying object landed in 1974. The site was immediately cordoned off by the army and nobody could ever see the alien from ..."
+		sound="data\sounds\Speech\r6m2\r6m2_4802_emissary.ogg"
 		time="19" />
 
 	<string
 		id="4803"
 		modelName="mask_hero"
-		value="ЭМИССАР|Эмиссар - Оракулу. Отчет номер 11. Моя миссия по поиску второго летательного аппарата Ньери встретила неожиданное сопротивление местных жителей. Любые мой вопросы встречают насмешки и непонимания."
-		sound="data\sounds\Speech\r6m2\r6m2_4803_emissary.ogg" 
+		value="EMISSARY|  Emissary to Oracle. Report No. 11. My mission in respect to search for the second flying apparatus Niery encountered unexpected opposition from part of local inhabitants. All my questions met mockery and misunderstanding. "
+		sound="data\sounds\Speech\r6m2\r6m2_4803_emissary.ogg"
 		time="16" />
 
 	<string
 		id="480312"
 		modelName="mask_hero"
 		modelSlot="1"
-		value="ЭМИССАР|В связи с невозможностью далее тратить время столь бесполезно, считаю  возможным перейти к тактической схеме ''Удар''. На момент отправки этого сообщения мной взят под контроль значительный регион. Летающая тарелка не обнаружена."
-		sound="data\sounds\Speech\r6m2\r6m2_480312_emissary.ogg" 
+		value="EMISSARY|  Due to impossibility to waste time in such useless manner I believe that we can proceed to the 'Stroke' tactic scheme. At the moment of this message, I took the control over a significant area. The UFO is not found."
+		sound="data\sounds\Speech\r6m2\r6m2_480312_emissary.ogg"
 		time="17" />
 
 	<string
 		id="4804"
 		modelName="mask_hero"
-		value="ЭМИССАР|Эмиссар – Оракулу. Отчет номер 15. В ходе операции по разведке и зачистке местности мной захвачен в плен местный житель, согласившийся на сотрудничество. Полагаю, это даст мне значительное преимущество в поисках."
-		sound="data\sounds\Speech\r6m2\r6m2_4804_emissary.ogg" 
+		value="EMISSARY|  Emissary to Oracle. Report No. 15. In the course of operation on reconnaissance and cleaning out the area I captured a local inhabitant who agreed to cooperate. I believe this will give me some significant advantage in the search."
+		sound="data\sounds\Speech\r6m2\r6m2_4804_emissary.ogg"
 		time="17" />
 
 	<string
 		id="4805"
 		modelName="Sam_mask"
 		modelSlot="1"
-		value="СЭМ|Послушай, я тебя, кажется, знаю. Ты тот самый человек, который расспрашивал всех об ангаре с цифрой 18 на боку, верно?"
-		sound="data\sounds\Speech\r6m2\r6m2_4805_sam.ogg" 
+		value="SAM|  Listen, I seem to know you. You are the man who inquired everyone after Hangar 18, right?"
+		sound="data\sounds\Speech\r6m2\r6m2_4805_sam.ogg"
 		time="10" />
 
 	<string
 		id="4806"
 		modelName="mask_hero"
-		value="ЭМИССАР|Да, это так. Но я так и не получил помощи в поисках."
-		sound="data\sounds\Speech\r6m2\r6m2_4806_emissary.ogg" 
+		value="EMISSARY| Yes, this is true. I had never received assistance in my search."
+		sound="data\sounds\Speech\r6m2\r6m2_4806_emissary.ogg"
 		time="4" />
 
 	<string
 		id="4807"
 		modelName="Sam_mask"
-		modelSlot="1"	
-		value="СЭМ|Если бы я знал, что за вами такая сила, сэр, я бы относился к вам совсем по-другому. Но и сейчас еще не поздно."
-		sound="data\sounds\Speech\r6m2\r6m2_4807_sam.ogg" 
+		modelSlot="1"
+		value="SAM|  If I knew there is such a force behind you, sir, I would have treated you absolutely different. But it is not late to start now."
+		sound="data\sounds\Speech\r6m2\r6m2_4807_sam.ogg"
 		time="10" />
 
 	<string
 		id="4808"
 		modelName="mask_hero"
-		value="ЭМИССАР|Не поздно? Для чего?"
-		sound="data\sounds\Speech\r6m2\r6m2_4808_emissary.ogg" 
+		value="EMISSARY|  Not late? For what?"
+		sound="data\sounds\Speech\r6m2\r6m2_4808_emissary.ogg"
 		time="2" />
 
 	<string
 		id="4809"
 		modelName="Sam_mask"
 		modelSlot="1"
-		value="СЭМ|Вы уже нашли ангар №18?"
-		sound="data\sounds\Speech\r6m2\r6m2_4809_sam.ogg" 
+		value="SAM|  Have you found Hangar 18 yet?"
+		sound="data\sounds\Speech\r6m2\r6m2_4809_sam.ogg"
 		time="3" />
 
 	<string
 		id="4810"
 		modelName="mask_hero"
-		value="ЭМИССАР|Нет. Вам известно его месторасположение?"
-		sound="data\sounds\Speech\r6m2\r6m2_4810_emissary.ogg" 
+		value="EMISSARY|  No. Do you know its location?"
+		sound="data\sounds\Speech\r6m2\r6m2_4810_emissary.ogg"
 		time="4" />
 
 	<string
 		id="4811"
 		modelName="Sam_mask"
-		modelSlot="1"	
-		value="СЭМ|Примерно. Мне знакомы территории, прилегающие к землям моей крепости. Я знаю где искать, но, чтобы организовать поиски, нужны силы, которых у меня нет. Между прочим, из-за ваших роботов я теперь потерял власть и в своих землях."
-		sound="data\sounds\Speech\r6m2\r6m2_4811_sam.ogg" 
+		modelSlot="1"
+		value="SAM|  Something like that. I know the territories adjacent to lands by my stronghold. I know where to search, but in order to manage the search we'll need forces that I do not have. By the way, I have lost control over my lands because of your robots too."
+		sound="data\sounds\Speech\r6m2\r6m2_4811_sam.ogg"
 		time="18" />
 
 	<string
 		id="4812"
 		modelName="mask_hero"
-		value="ЭМИССАР|Что за информацию об интересующем меня объекте вы хотите?"
-		sound="data\sounds\Speech\r6m2\r6m2_4812_emissary.ogg" 
+		value="EMISSARY|  What kind of information about the object are you interested in, do you want?"
+		sound="data\sounds\Speech\r6m2\r6m2_4812_emissary.ogg"
 		time="4" />
 
 	<string
 		id="4813"
 		modelName="Sam_mask"
 		modelSlot="1"
-		value="СЭМ|Вы, сэр, владеете мощными машинами и грозным оружием. Поделитесь со мной всем этим, и я не только найду вам ваш ангар, но и помогу зачистить территорию вокруг него."
-		sound="data\sounds\Speech\r6m2\r6m2_4813_sam.ogg" 
+		value="SAM|  You have powerful machines and a terrible weapon at your command, sir. Share this all with me, and I will not only find your hangar for you but help clean out the area around it."
+		sound="data\sounds\Speech\r6m2\r6m2_4813_sam.ogg"
 		time="14" />
 
 	<string
 		id="4814"
 		modelName="mask_hero"
-		value="ЭМИССАР|Я должен подумать... Ну хорошо, вы получите требуемое."
-		sound="data\sounds\Speech\r6m2\r6m2_4814_emissary.ogg" 
+		value="EMISSARY|  I must think it over... OK, you will get what you want."
+		sound="data\sounds\Speech\r6m2\r6m2_4814_emissary.ogg"
 		time="4" />
 
 	<string
 		id="4815"
 		modelName="Sam_mask"
-		modelSlot="1"	
-		value="СЭМ|Отличное решение, сэр. Да, еще хочу предупредить: тут неподалеку должен болтаться некий тип по кличке «Бродяга». Он один из самых серьезных бойцов, известных мне. Отделайтесь от него при первом же удобном случае."
-		sound="data\sounds\Speech\r6m2\r6m2_4815_sam.ogg" 
+		modelSlot="1"
+		value="SAM|  Great decision, sir. And another thing to warn you about. There is fellow hanging around here, his name is Vagrant. He is one of the most serious fighters that I know. Get rid of him when occasion serves."
+		sound="data\sounds\Speech\r6m2\r6m2_4815_sam.ogg"
 		time="19" />
 
 	<string
 		id="4816"
 		modelName="mask_hero"
-		value="ЭМИССАР|Хорошо. Я учту это."
-		sound="data\sounds\Speech\r6m2\r6m2_4816_emissary.ogg" 
+		value="EMISSARY|  OK. I will remember that."
+		sound="data\sounds\Speech\r6m2\r6m2_4816_emissary.ogg"
 		time="2" />
 
 	<string
 		id="4817"
 		modelName="mask_hero"
 		modelSlot="1"
-		value="ЭМИССАР|Я не доверяю этому человеку, но он жаждет власти. И, получив оружие и машину, отправится уничтожать противника там, куда еще не добрались мои роботы. Таким образом он выполнит необходимую мне работу."
-		sound="data\sounds\Speech\r6m2\r6m2_4817_emissary.ogg" 
+		value="EMISSARY|  I do not trust this man, but he is thirsty for power and as he gets the weapon and machine he will start to destroy the enemy where my robots have not reached yet. Therefore, he will complete the job I need."
+		sound="data\sounds\Speech\r6m2\r6m2_4817_emissary.ogg"
 		time="16" />
 
 	<string
 		id="4818"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Ну, Сэм! Ну, гад! Лопни твой бензобак! Я достану тебя даже на краю земли!"
-		sound="data\sounds\Speech\r6m2\r6m2_4818_nomad.ogg" 
+		value="VAGRANT|  Well Sam! Well vermin! Crack your tank! I'll find you even at the end of the world!"
+		sound="data\sounds\Speech\r6m2\r6m2_4818_nomad.ogg"
 		time="6" />
 
 	<string
 		id="4901"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Теперь паром должен заработать! Ну, Сэм! Погоди!"
-		sound="data\sounds\Speech\r6m2\r6m2_4901_nomad.ogg" 
+		value="VAGRANT| Now the ferry must start working! Well Sam! Wait!"
+		sound="data\sounds\Speech\r6m2\r6m2_4901_nomad.ogg"
 		time="5" />
 
 	<string
 		id="8801"
-		value="Вы желаете покинуть эту область?"
+		value="Do you want to leave this area?"
 		numButtons="2" />
 
 	<string
 		id="8802"
-		value="Механик погиб."
+		value="Mechanic is dead."
 		numButtons="1" />
 </resource>
+

@@ -3,21 +3,21 @@
 	<string
 		id="5000"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Хорошую вещь долгом не назовут... Отвезти посылку к черту на кулички. Получить за это жалких 500 монет. Все это из-за того, что оказался должен этому механику за спасение моей тачки."
+		value="VAGRANT|  No good thing is called a debt... Bring the parcel to the other side of the world. Earn on the trifling 500 coins. And this is only because I am indebted to the mechanic for the rescue of my truck."
 		sound="data\sounds\Speech\sin\sin_5000_nomad.ogg"
 		time="11" />
 
 	<string
 		id="5001"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Долг красен платежом. Мой платеж - добрых 400 миль по пустыне. Слева горы, справа степь или справа горы, слева степь - вот и всё разнообразие. Уже подташнивает от всей этой красоты."
+		value="VAGRANT|  Debt is good when it is paid off. My payment is good 400 miles in the desert. Mountains to the left; steppe to the right... Or mountains to the right and steppe to the left - that is diversity. Such beauty makes me feel sick."
 		sound="data\sounds\Speech\sin\sin_5001_nomad.ogg"
 		time="13" />
 
 	<string
 		id="5002"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|И в конце путешествия - маленький городишко Иерихон. Вряд ли здесь найдется хотя бы один приличный бар..."
+		value="VAGRANT|  And at the end of my travel I am in the small town of Jericho. I doubt if a man can find a decent bar here..."
 		sound="data\sounds\Speech\sin\sin_5002_nomad.ogg"
 		time="6" />
 
@@ -27,14 +27,14 @@
 		modelSkin="1"
 		modelCfg="58"
 		modelSlot="1"
-		value="АРЛЕКИН|Не торопись, бродяга!"
+		value="HARLEQUIN|  Take your time, vagrant!"
 		sound="data\sounds\Speech\sin\sin_5100_arlekin.ogg"
 		time="1" />
 
 	<string
 		id="5101"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|А вы еще кто такие?"
+		value="VAGRANT|  And who are you?"
 		sound="data\sounds\Speech\sin\sin_5101_nomad.ogg"
 		time="1" />
 
@@ -44,14 +44,14 @@
 		modelSkin="1"
 		modelCfg="58"
 		modelSlot="1"
-		value="АРЛЕКИН|Ты попал на Волчью Тропу. Мы Псы, бродяга, и мы не любим незнакомцев, от которых на милю несет неприятностями. Поворачивай назад, если не ищешь проблем."
+		value="HARLEQUIN|  You are on the Wolf Track now. We are the Dogs, vagrant, and we do not like strangers that smell of troubles miles away. You'd better turn back unless you're looking for problems."
 		sound="data\sounds\Speech\sin\sin_5102_arlekin.ogg"
 		time="7" />
 
 	<string
 		id="5103"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|У меня есть дела в городе."
+		value="VAGRANT|  I am on business in this town."
 		sound="data\sounds\Speech\sin\sin_5103_nomad.ogg"
 		time="1" />
 
@@ -61,7 +61,7 @@
 		modelSkin="1"
 		modelCfg="58"
 		modelSlot="1"
-		value="АРЛЕКИН|Псы! Кажется наш гость не понимает здешних обычаев. Проявите радушие - объясните..."
+		value="HARLEQUIN|  Dogs, our guest doesn't seem to understand the local customs. Be friendly and explain it to him"
 		sound="data\sounds\Speech\sin\sin_5104_arlekin.ogg"
 		time="5" />
 
@@ -70,9 +70,9 @@
 		modelName="r2_man"
 		modelSkin="2"
 		modelCfg="332"
-		value="БОЕЦ|Ок, Босс."
+		value="FIGHTER|  OK Boss"
 		sound="data\sounds\Speech\sin\sin_5105_fighter.ogg"
-		time="1" 		/>
+		time="1" />
 
 	<string
 		id="5106"
@@ -80,14 +80,14 @@
 		modelSkin="1"
 		modelCfg="58"
 		modelSlot="1"
-		value="АРЛЕКИН|Счастливо оставаться, незнакомец."
+		value="HARLEQUIN|  Bye-bye, stranger."
 		sound="data\sounds\Speech\sin\sin_5106_arlekin.ogg"
 		time="" />
 
 	<string
 		id="5200"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Опять ты?"
+		value="VAGRANT|  You again?"
 		sound="data\sounds\Speech\sin\sin_5200_nomad.ogg"
 		time="2" />
 
@@ -97,14 +97,14 @@
 		modelSkin="1"
 		modelCfg="58"
 		modelSlot="1"
-		value="АРЛЕКИН|Пора поговорить с тобой по серьезному!"
+		value="HARLEQUIN|  It's high time we had a serious conversation..."
 		sound="data\sounds\Speech\sin\sin_5201_arlekin.ogg"
 		time="3" />
 
 	<string
 		id="5202"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Садись в грузовик... Я не буду стрелять в человека без машины."
+		value="VAGRANT|  Get in the truck... I will not shoot a man without a vehicle."
 		sound="data\sounds\Speech\sin\sin_5202_nomad.ogg"
 		time="4" />
 
@@ -114,14 +114,14 @@
 		modelSkin="1"
 		modelCfg="58"
 		modelSlot="1"
-		value="АРЛЕКИН|Ты поплатишься за дерзость."
+		value="HARLEQUIN|  You'll pay for your impudence."
 		sound="data\sounds\Speech\sin\sin_5203_arlekin.ogg"
 		time="1" />
 
 	<string
 		id="5204"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Кто нибудь ещё хочет меня поприветствовать в вашем городе? Нет? Счастливо оставаться, Щенки."
+		value="VAGRANT|  Is there someone else who wants to greet me in your town?.. No? Buy-buy, puppies."
 		sound="data\sounds\Speech\sin\sin_5204_nomad.ogg"
 		time="7"/>
 
@@ -131,14 +131,14 @@
 		modelSkin="1"
 		modelCfg="125"
 		modelSlot="1"
-		value="КИТТИ|Привет, красавчик. Теперь тебе в наших краях и заправиться-то не получится. Арелекин был правой рукой Бульдога, Босса Псов. Пока ты враг Псов - нет дураков, чтобы тебе помогать."
+		value="KITTY|Hello, handsome. Now you won't even be able to get gas in our area. Arelequin was the right hand of Bulldog, the Boss of Dogs. As long as you are an enemy of Dogs, no one is stupid enough to help you."
 		sound=""
 		time="10"/>		
 
 	<string
 		id="5206"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Остается воровать запчасти и сливать бензин по ночам."
+		value="VAGRANT|All that's left is to steal spare parts and drain gasoline at night."
 		sound=""
 		time="5"/>
 
@@ -148,14 +148,14 @@
 		modelSkin="1"
 		modelCfg="125"
 		modelSlot="1"
-		value="КИТТИ|Как вариант. Вариант номер два - работать на Котов Гарфилда. Если ты будешь работать на Гарфилда, у тебя будут и деньги и бензин. Найти его можно на его Вилле. Скажи, что ты от Китти. Удачи, Красавчик."
+		value="KITTY|As an option. Option number two - work for Garfield's Cats. If you work for Garfield, you will have both money and gas. You can find him at his Villa. Say that Kitty sent you. Good luck, Handsome."
 		sound=""
 		time="12"/>
 
 	<string
 		id="5208"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Спасибо."
+		value="VAGRANT|Thank you."
 		sound=""
 		time="3"/>
 
@@ -165,14 +165,14 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Уйди с дороги, придурок."
+		value="EGOIST|  Get out of my way, dummy."
 		sound="data\sounds\Speech\sin\sin_5300_egoist.ogg"
 		time="1" />
 
 	<string
 		id="5301"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Придержи язык."
+		value="VAGRANT|  Hold your tongue."
 		sound="data\sounds\Speech\sin\sin_5301_nomad.ogg"
 		time="1" />
 
@@ -182,14 +182,14 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Это же ты тот приезжий, что пристрелил Арлекина! Теперь из-за тебя начнется война."
+		value="EGOIST|  This is the stranger who shot Harlequin. Now a war will start because of you."
 		sound="data\sounds\Speech\sin\sin_5302_egoist.ogg"
 		time="6" />
 
 	<string
 		id="5303"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Чем ты недоволен? Ваши враги ослабли."
+		value="VAGRANT|  What's your problem?  Your enemies become weaker."
 		sound="data\sounds\Speech\sin\sin_5303_nomad.ogg"
 		time="2" />
 
@@ -199,14 +199,14 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Ты среди нас чужой. Лишний."
+		value="EGOIST|  You are a stranger. We don't want you here"
 		sound="data\sounds\Speech\sin\sin_5304_egoist.ogg"
 		time="2" />
 
 	<string
 		id="5305"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Не нарывайся. Это не тебе решать."
+		value="VAGRANT|  Do not run into troubles. It is not up to you."
 		sound="data\sounds\Speech\sin\sin_5305_nomad.ogg"
 		time="2" />
 
@@ -216,14 +216,14 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Я слышу угрозу в твоем голосе?!"
+		value="EGOIST|  I hear threat in your voice?!"
 		sound="data\sounds\Speech\sin\sin_5306_egoist.ogg"
 		time="2" />
 
 	<string
 		id="5307"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|А если и так?"
+		value="VAGRANT|  So what?"
 		sound="data\sounds\Speech\sin\sin_5307_nomad.ogg"
 		time="1" />
 
@@ -233,14 +233,14 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Я же тебя убью, наглец."
+		value="EGOIST|  Don't you know I'll kill you cad."
 		sound="data\sounds\Speech\sin\sin_5308_egoist.ogg"
 		time="2" />
 
 	<string
 		id="5312"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Ещё остались вопросы?"
+		value="VAGRANT|  Any questions?"
 		sound="data\sounds\Speech\sin\sin_5312_nomad.ogg"
 		time="1" />
 
@@ -250,21 +250,21 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Ты за это поплатишься..."
+		value="EGOIST|  You will pay for this..."
 		sound="data\sounds\Speech\sin\sin_5313_egoist.ogg"
 		time="2" />
 
 	<string
 		id="5314"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Поживем - увидим... Если я понадоблюсь - я буду в городе."
+		value="VAGRANT|  We'll live you'll see... If you want me to, I'll stick around the town."
 		sound="data\sounds\Speech\sin\sin_5314_nomad.ogg"
 		time="4" />
 
 	<string
 		id="5400"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Помощь не требуется?"
+		value="VAGRANT|  Do you need a hand?"
 		sound="data\sounds\Speech\sin\sin_5400_nomad.ogg"
 		time="1" />
 
@@ -274,14 +274,14 @@
 		modelSkin="1"
 		modelCfg="8"
 		modelSlot="1"
-		value="ВОДИТЕЛЬ|Помощи каждый будет рад. Не ты ли тот водила, что убил Арлекина?"
+		value="DRIVER|  Everybody will be glad to have a hand. Aren't you that driver who killed Harlequin?"
 		sound="data\sounds\Speech\sin\sin_5401_driver.ogg"
 		time="5" />
 
 	<string
 		id="5402"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Наверно, путаешь меня с кем-то..."
+		value="VAGRANT|  You seem to confuse me with someone else..."
 		sound="data\sounds\Speech\sin\sin_5402_nomad.ogg"
 		time="2" />
 
@@ -291,7 +291,7 @@
 		modelSkin="1"
 		modelCfg="8"
 		modelSlot="1"
-		value="ВОДИТЕЛЬ|Думаю, я не ошибся..."
+		value="DRIVER|  I guess I am right..."
 		sound="data\sounds\Speech\sin\sin_5403_driver.ogg"
 		time="2" />
 
@@ -301,14 +301,14 @@
 		modelSkin="0"
 		modelCfg="332"
 		modelSlot="1"
-		value="ОХРАНА|Эй, парень, вали с дороги."
+		value="GUARD|  Hey, dude, get off the road."
 		sound="data\sounds\Speech\sin\sin_5500_guard.ogg"
 		time="1" />
 
 	<string
 		id="5501"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Меня послали Коты с сообщением..."
+		value="VAGRANT|  The Cats sent me with a message..."
 		sound="data\sounds\Speech\sin\sin_5501_nomad.ogg"
 		time="2" />
 
@@ -318,28 +318,28 @@
 		modelSkin="0"
 		modelCfg="332"
 		modelSlot="1"
-		value="OXPAHA|Какое сообщение?"
+		value="GUARD|  What message?"
 		sound="data\sounds\Speech\sin\sin_5502_guard.ogg"
 		time="1" />
 
 	<string
 		id="5503"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Деньги за работу у меня с собой... Стреляйте, ребята..."
+		value="VAGRANT|  I've got your payment right here...guys, fire!"
 		sound="data\sounds\Speech\sin\sin_5503_nomad.ogg"
 		time="3" />
 
 	<string
 		id="5600"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Черт. Чтобы вернуться, придётся искать другую дорогу..."
+		value="VAGRANT|  Damn it. I will have another road to get back..."
 		sound="data\sounds\Speech\sin\sin_5600_nomad.ogg"
 		time="3" />
 
 	<string
 		id="5700"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Привет, ребята. Как вам отдыхается?"
+		value="VAGRANT|  Hello guys. Having a nice rest?"
 		sound="data\sounds\Speech\sin\sin_5700_nomad.ogg"
 		time="2" />
 
@@ -349,14 +349,14 @@
 		modelSkin="1"
 		modelCfg="132"
 		modelSlot="1"
-		value="ЭГОИСТ|Стой, не убивай..."
+		value="EGOIST|  Stop, don't kill..."
 		sound="data\sounds\Speech\sin\sin_5701_egoist.ogg"
 		time="3" />
 
 	<string
 		id="5702"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Поедешь в моей машине... Только дернись - я тебе шею сверну."
+		value="VAGRANT|  Go in my vehicle... Just move and you're dead."
 		sound="data\sounds\Speech\sin\sin_5702_nomad.ogg"
 		time="4" />
 
@@ -366,7 +366,7 @@
 		modelSkin="0"
 		modelCfg="132"
 		modelSlot="1"
-		value="ГАРФИЛД|Ты мне ещё ответишь за это..."
+		value="CHIEF CAT|  You are to pay for this..."
 		sound="data\sounds\Speech\sin\sin_5800_cat.ogg"
 		time="2" />
 
@@ -375,7 +375,7 @@
 		modelName="r2_man"
 		modelSkin="3"
 		modelCfg="132"
-		value="БОРН|Где наш груз?!"
+		value="BORN|  Where's our freight?!"
 		sound="data\sounds\Speech\sin\sin_5801_born.ogg"
 		time="1" />
 
@@ -385,7 +385,7 @@
 		modelSkin="0"
 		modelCfg="132"
 		modelSlot="1"
-		value="ГАРФИЛД|Сначала покажите нам Эгоиста."
+		value="CHIEF CAT|  Show me this Egotist first."
 		sound="data\sounds\Speech\sin\sin_5802_cat.ogg"
 		time="2" />
 
@@ -394,7 +394,7 @@
 		modelName="r2_man"
 		modelSkin="3"
 		modelCfg="132"
-		value="БОРН|С ним всё в порядке-забирайте."
+		value="BORN|  He's allright - take him?"
 		sound="data\sounds\Speech\sin\sin_5803_born.ogg"
 		time="2" />
 
@@ -404,7 +404,7 @@
 		modelSkin="0"
 		modelCfg="132"
 		modelSlot="1"
-		value="ГАРФИЛД|Это не та коробка!!!"
+		value="CHIEF CAT|  This is a wrong box!!!"
 		sound="data\sounds\Speech\sin\sin_5804_cat.ogg"
 		time="1" />
 
@@ -413,7 +413,7 @@
 		modelName="r2_man"
 		modelSkin="3"
 		modelCfg="132"
-		value="БОРН|Огонь!!!"
+		value="BORN|  Fire!!!"
 		sound="data\sounds\Speech\sin\sin_5805_born.ogg"
 		time="1" />
 
@@ -423,14 +423,14 @@
 		modelSkin="0"
 		modelCfg="132"
 		modelSlot="1"
-		value="ГАРФИЛД|Смерть щенкам!!"
+		value="CHIEF CAT|  Die puppies!!!"
 		sound="data\sounds\Speech\sin\sin_5806_cat.ogg"
 		time="1" />
 
 	<string
 		id="5900"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Привет, ребята. Ждете кого-то?"
+		value="VAGRANT|  Hello guys. Waiting for anybody?"
 		sound="data\sounds\Speech\sin\sin_5900_nomad.ogg"
 		time="2" />
 
@@ -439,14 +439,14 @@
 		modelName="r2_man"
 		modelSkin="3"
 		modelCfg="132"
-		value="БОРН|Что здесь случилось?"
+		value="BORN|  What's going on here?"
 		sound="data\sounds\Speech\sin\sin_6000_born.ogg"
 		time="1" />
 
 	<string
 		id="6001"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Видимо, у Псов появились новые бойцы... Когда я приехал, всё уже было кончено."
+		value="VAGRANT|  The Dogs have obviously got new fighters... When I arrived, everything was over."
 		sound="data\sounds\Speech\sin\sin_6001_nomad.ogg"
 		time="5" />
 
@@ -456,14 +456,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="КЕВИН|А что с твоей машиной?"
+		value="KEVIN|  And what is wrong with your vehicle?"
 		sound="data\sounds\Speech\sin\sin_6002_kevin.ogg"
 		time="1" />
 
 	<string
 		id="6003"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Я сбил собаку."
+		value="VAGRANT|  I ran at a dog"
 		sound="data\sounds\Speech\sin\sin_6003_nomad.ogg"
 		time="1" />
 
@@ -473,14 +473,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="КЕВИН|Мы не видели по дороге ни одной."
+		value="KEVIN|  We did not see any on the road."
 		sound="data\sounds\Speech\sin\sin_6004_kevin.ogg"
 		time="2" />
 
 	<string
 		id="6005"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Кто-то растащил на запчасти?"
+		value="VAGRANT|  Did anybody disassemble it for spares?"
 		sound="data\sounds\Speech\sin\sin_6005_nomad.ogg"
 		time="2" />
 
@@ -490,14 +490,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="КЕВИН|Я так не думаю. Этот водитель не Кот и не Пес, он - поганая крыса. Снимите с его машины оружие."
+		value="KEVIN|  I don't think so. The driver was neither a Dog nor a Cat; he is a filthy rat. Take the weapon from his vehicle."
 		sound="data\sounds\Speech\sin\sin_6006_kevin.ogg"
 		time="7" />
 
 	<string
 		id="6007"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Чёрт."
+		value="VAGRANT|  Damn it."
 		sound="data\sounds\Speech\sin\sin_6007_nomad.ogg"
 		time="1" />
 
@@ -507,7 +507,7 @@
 		modelSkin="0"
 		modelCfg="132"
 		modelSlot="1"
-		value="ГАРФИЛД|Как вы могли его упустить?! Поймайте его немедленно!!!"
+		value="CHIEF CAT|  How could you let him escape?! Catch him now!!!"
 		sound="data\sounds\Speech\sin\sin_6100_cat.ogg"
 		time="3" />
 
@@ -517,7 +517,7 @@
 		modelSkin="0"
 		modelCfg="132"
 		modelSlot="1"
-		value="ГАРФИЛД|Куда он подевался?! Макс, Флеминг - останьтесь здесь, остальные со мной."
+		value="CHIEF CAT|  Where is he?! Max, Fleming - you stay here; others go with me."
 		sound="data\sounds\Speech\sin\sin_6101_cat.ogg"
 		time="5" />
 
@@ -526,7 +526,7 @@
 		modelName="r2_woman"
 		modelSkin="0"
 		modelCfg="58"
-		value="МАКС|Вон он!!!"
+		value="MAX|  Here it is!!!"
 		sound="data\sounds\Speech\sin\sin_6102_max.ogg"
 		time="2" />
 
@@ -536,14 +536,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="ФЛЕМИНГ|Лови!!"
+		value="FLEMING|  Catch it!!!"
 		sound="data\sounds\Speech\sin\sin_6103_fleming.ogg"
 		time="2" />
 
 	<string
 		id="6104"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Вроде, ушёл. Надо добраться до Церкви. Там можно отсидеться."
+		value="VAGRANT|  Seems like he's gone. We'd better get to the Church - there, we could stay until everything is allright."
 		sound="data\sounds\Speech\sin\sin_6104_nomad.ogg"
 		time="4" />
 
@@ -552,7 +552,7 @@
 		modelName="r2_man"
 		modelSkin="0"
 		modelCfg="326"
-		value="СВЯЩЕННИК|К тебе гости, Бродяга - Мэр."
+		value="PRIEST|  A guest to you Vagrant. It is Mayor."
 		sound="data\sounds\Speech\sin\sin_6200_god.ogg"
 		time="3" />
 
@@ -562,14 +562,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="МЭР|Ты сделал всё отлично, одной банды теперь нет. Чем планируешь заняться дальше?"
+		value="MAYOR|  You have done everything excellently - one of the bands ceased to exist. What are you going to do next?"
 		sound="data\sounds\Speech\sin\sin_6201_mer.ogg"
 		time="5" />
 
 	<string
 		id="6202"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Сначала нужно отремонтировать тачку и достать оружие."
+		value="VAGRANT|  I need to repair the vehicle and get myself weapons first."
 		sound="data\sounds\Speech\sin\sin_6202_nomad.ogg"
 		time="3" />
 
@@ -579,14 +579,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="МЭР|Я бы ни за что не стал тебе помогать... И я не буду этого делать. Я дам тебе только оружие. Псы захватили Джо, я не хочу, чтобы с ним что-нибудь случилось."
+		value="MAYOR|  I would not help you for any price... And I won't. I'll only give you weapon. The Dogs captured Joe. I don't want anything to happen to him."
 		sound="data\sounds\Speech\sin\sin_6203_mer.ogg"
 		time="10" />
 
 	<string
 		id="6204"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Они в Иерихоне?"
+		value="VAGRANT|  Are they in Jericho?"
 		sound="data\sounds\Speech\sin\sin_6204_nomad.ogg"
 		time="1" />
 
@@ -596,7 +596,7 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="МЭР|Да, в Восточной части. Борн с Кевином уехали на поиски Китти. Остались только простые бойцы."
+		value="MAYOR|  Yes, in the Eastern side. Born and Kevin went to look for Kitty - only plain fighters are left..."
 		sound="data\sounds\Speech\sin\sin_6205_mer.ogg"
 		time="6" />
 
@@ -606,14 +606,14 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="КЕВИН|А ты хорош! Может, даже так же хорош, как я."
+		value="KEVIN|  Well-done! May be you are even as good as I am."
 		sound="data\sounds\Speech\sin\sin_6300_kevin.ogg"
 		time="4" />
 
 	<string
 		id="6301"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Если верить слухам, то вряд ли..."
+		value="VAGRANT|  Judging by rumours, I don't think so..."
 		sound="data\sounds\Speech\sin\sin_6301_nomad.ogg"
 		time="2" />
 
@@ -623,7 +623,7 @@
 		modelSkin="0"
 		modelCfg="58"
 		modelSlot="1"
-		value="КЕВИН|Слухи обычно преувеличены..."
+		value="KEVIN|  Rumors are usually exaggerated..."
 		sound="data\sounds\Speech\sin\sin_6302_kevin.ogg"
 		time="2" />
 
@@ -633,14 +633,14 @@
 		modelSkin="3"
 		modelCfg="132"
 		modelSlot="1"
-		value="БОРН|Слушайте! Я не хочу войны. Нам не нужна война. Война окончена - мы победили. Зачем нам воевать? Нам нужно радоваться! Бродяга, присоединяйся ко мне. Вместе мы найдем Китти, у меня есть деньги. Всё будет ок! Мы победили!"
+		value="BORN|  Listen! I don't want a war. We don't need to fight. The war is over - and we've won. Why shall we fight? We must be happy! Vagrant, join me. We'll find Kitty together; I've got money. Everything's gonna be allright! We've won!"
 		sound="data\sounds\Speech\sin\sin_6303_born.ogg"
 		time="21" />
 
 	<string
 		id="6304"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Вряд ли нам с Кевином по пути..."
+		value="VAGRANT|  I don't think Kevin and I are going the same way..."
 		sound="data\sounds\Speech\sin\sin_6304_nomad.ogg"
 		time="2" />
 
@@ -650,40 +650,40 @@
 		modelSkin="1"
 		modelCfg="326"
 		modelSlot="1"
-		value="ДЖО|На, получи!!"
+		value="JOE|  Take that!!!"
 		sound="data\sounds\Speech\sin\sin_6305_jo.ogg"
 		time="1" />
 
 	<string
 		id="6400"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Вот так закончилась эта история... Город Иерихон был разрушен. Жители, так ненавидевшие банды, не смогли жить в городе без денег этих банд и вскоре разъехались. Деньги Борна так и не нашлись. Богатства Котов сгорели вместе с их Домом."
+		value="VAGRANT|  So that's the end of the story... The town of Jericho was destroyed. The local population, who hated gangs, could not live in the town without money of the gangs and soon everybody left. Born's money was not found, either. The Cats' treasures burned together with their Houses."
 		sound="data\sounds\Speech\sin\sin_6400_nomad.ogg"
 		time="18" />
 
 	<string
 		id="6401"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|На оставшиеся деньги я починил машину и отправился в дорогу. Один пьяница в баре проболтался про грузовик с ценным грузом, бороздящий местные края под видом небогатого торговца. Было бы глупо упускать такой шанс..."
+		value="VAGRANT|  I spent the rest of my cash to have my vehicle repaired and set out on my journey. A drunkard in the bar blabbed out about a truck with a valuable freight that furrowed local country as a modest merchant. It would be stupid of me to waste such a chance..."
 		sound="data\sounds\Speech\sin\sin_6401_nomad.ogg"
 		time="15" />
 
 	<string
 		id="6500"
 		modelName="NewHero_mask"
-		value ="БРОДЯГА|Вряд ли я смогу здесь проехать. Должен быть другой путь."
+		value="VAGRANT|  It does not look like I can get through here. There must be some other way."
 		sound="data\sounds\Speech\sin\sin_6500_nomad.ogg"
 		time="3" />
 
 	<string
 		id="8801"
-		value="Вы желаете покинуть эту область?"
+		value="Do you want to leave this area?"
 		numButtons="2" />
 
 	<string
 		id="8802"
 		modelName="NewHero_mask"
-		value="БРОДЯГА|Я не знаю, куда ведет эта дорога, поэтому останусь здесь." 
+		value="VAGRANT|  I do not know where the road leads to. That is why I am staying here."
 		sound="data\sounds\Speech\r5m1\r5m1_8802_nomad.ogg"
 		time="5" />
 
